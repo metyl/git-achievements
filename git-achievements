@@ -481,8 +481,8 @@ There are $total Achievements. Some achievements can be leveled up depending on 
     git push origin gh-pages
 }
 
-ACTIONLOGFILE="./.git-achievements-action.log"
-ACHIEVEMENTSLOGFILE="./.git-achievements.log"
+ACTIONLOGFILE="$HOME/github/git-achievements/.git-achievements-action.log"
+ACHIEVEMENTSLOGFILE="$HOME/github/git-achievements/.git-achievements.log"
 
 if [ ! "$1" = "achievements" ] ; then
     git "$@"
