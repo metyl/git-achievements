@@ -381,3 +381,25 @@ Date: Wed Oct 16 09:17:18 GMT 2013
 rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
 Date: Wed Oct 16 09:18:30 GMT 2013
 
+achievements -l
+Date: 16 paź 2013 11:25:42
+fetch
+Date: 16 paź 2013 11:40:52
+achievements -l
+Date: 16 paź 2013 11:42:08
+achievements --help
+Date: 16 paź 2013 11:42:23
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct 16 09:50:39 GMT 2013
+status
+Date: Wed Oct 16 09:50:42 GMT 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct 16 09:50:42 GMT 2013
+help -a
+Date: Wed Oct 16 09:50:46 GMT 2013
+achievements -p
+Date: Wed Oct 16 09:51:05 GMT 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct 16 09:51:06 GMT 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct 16 09:51:30 GMT 2013
