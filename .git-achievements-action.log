@@ -661,3 +661,35 @@ rev-parse --git-dir
 Date: Mon Oct 21 12:04:12 CEST 2013
 symbolic-ref HEAD
 Date: Mon Oct 21 12:04:12 CEST 2013
+commit -a -m logs from CGM git
+Date: Mon Oct 21 12:04:43 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:04:43 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:04:43 CEST 2013
+push
+Date: Mon Oct 21 12:04:51 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:04:51 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:04:51 CEST 2013
+status
+Date: Mon Oct 21 12:04:53 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:04:53 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:04:54 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:06:55 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:06:55 CEST 2013
+config --global user.name Maciej Matys
+Date: Mon Oct 21 12:07:37 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:07:45 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:07:45 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:10:08 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:10:08 CEST 2013
