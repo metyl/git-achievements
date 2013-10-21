@@ -443,3 +443,31 @@ rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tr
 Date: Mon Oct 21 07:31:31 GMT 2013
 rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
 Date: Mon Oct 21 07:31:41 GMT 2013
+rev-parse --git-dir
+Date: Mon Oct 21 09:47:53 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 09:47:54 CEST 2013
+fetch
+Date: Mon Oct 21 09:48:04 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 09:48:04 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 09:48:04 CEST 2013
+pull origin gh-pages
+Date: Mon Oct 21 09:48:13 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 09:48:13 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 09:48:13 CEST 2013
+status
+Date: Mon Oct 21 09:48:18 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 09:48:18 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 09:48:18 CEST 2013
+push
+Date: Mon Oct 21 09:48:33 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 09:48:33 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 09:48:33 CEST 2013
