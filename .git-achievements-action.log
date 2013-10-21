@@ -693,3 +693,33 @@ rev-parse --git-dir
 Date: Mon Oct 21 12:10:08 CEST 2013
 symbolic-ref HEAD
 Date: Mon Oct 21 12:10:08 CEST 2013
+commit -a -m avatar fix
+Date: Mon Oct 21 12:10:33 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:10:33 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:10:33 CEST 2013
+config --global user.name
+Date: Mon Oct 21 12:10:49 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:10:49 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:10:49 CEST 2013
+status
+Date: Mon Oct 21 12:11:01 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:11:01 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:11:01 CEST 2013
+push
+Date: Mon Oct 21 12:11:14 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:11:14 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:11:14 CEST 2013
+status
+Date: Mon Oct 21 12:14:20 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:14:20 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:14:20 CEST 2013
