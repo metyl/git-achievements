@@ -603,3 +603,37 @@ rev-parse --git-dir
 Date: Mon Oct 21 11:50:53 CEST 2013
 symbolic-ref HEAD
 Date: Mon Oct 21 11:50:53 CEST 2013
+commit -a -m from cgm git
+Date: Mon Oct 21 11:51:09 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 11:51:09 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 11:51:09 CEST 2013
+push
+Date: Mon Oct 21 11:51:25 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 11:51:25 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 11:51:25 CEST 2013
+status
+Date: Mon Oct 21 12:02:26 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:02:26 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:02:26 CEST 2013
+achievements -l
+Date: Mon Oct 21 12:02:37 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:02:37 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:02:37 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:03:14 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:03:14 CEST 2013
+status
+Date: Mon Oct 21 12:03:20 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:03:20 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:03:20 CEST 2013
