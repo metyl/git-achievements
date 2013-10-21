@@ -637,3 +637,27 @@ rev-parse --git-dir
 Date: Mon Oct 21 12:03:20 CEST 2013
 symbolic-ref HEAD
 Date: Mon Oct 21 12:03:20 CEST 2013
+commit -a -m html page fixes
+Date: Mon Oct 21 12:03:36 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:03:43 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:03:43 CEST 2013
+status
+Date: Mon Oct 21 12:03:53 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:03:53 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:03:53 CEST 2013
+achievements -p
+Date: Mon Oct 21 12:04:09 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:04:10 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:04:10 CEST 2013
+status
+Date: Mon Oct 21 12:04:12 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:04:12 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:04:12 CEST 2013
