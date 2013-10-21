@@ -729,3 +729,41 @@ rev-parse --git-dir
 Date: Mon Oct 21 12:14:28 CEST 2013
 symbolic-ref HEAD
 Date: Mon Oct 21 12:14:28 CEST 2013
+commit -a -m from cgm git
+Date: Mon Oct 21 12:14:32 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:14:32 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:14:32 CEST 2013
+push
+Date: Mon Oct 21 12:14:40 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:14:53 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:14:53 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:15:07 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:15:07 CEST 2013
+status
+Date: Mon Oct 21 12:15:32 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:15:32 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:15:32 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:17:08 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:17:08 CEST 2013
+pull origin gh-pages
+Date: Mon Oct 21 12:17:17 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:17:17 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:17:17 CEST 2013
+status
+Date: Mon Oct 21 12:17:26 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 12:17:26 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 12:17:26 CEST 2013
