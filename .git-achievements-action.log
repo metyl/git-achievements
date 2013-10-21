@@ -471,3 +471,135 @@ rev-parse --git-dir
 Date: Mon Oct 21 09:48:33 CEST 2013
 symbolic-ref HEAD
 Date: Mon Oct 21 09:48:33 CEST 2013
+commit -a -m from cgm git
+Date: Mon Oct 21 09:48:37 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 09:48:37 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 09:48:37 CEST 2013
+push
+Date: Mon Oct 21 09:48:47 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 09:48:48 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 09:48:48 CEST 2013
+achievements -l
+Date: Mon Oct 21 09:51:42 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 09:51:42 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 09:51:42 CEST 2013
+status
+Date: Mon Oct 21 09:52:39 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 09:52:39 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 09:52:39 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 09:53:04 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 09:53:04 CEST 2013
+achievements -l
+Date: Mon Oct 21 10:34:59 CEST 2013
+achievements --help
+Date: Mon Oct 21 10:35:06 CEST 2013
+achievements -p
+Date: Mon Oct 21 10:35:10 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:35:47 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:35:47 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:37:01 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:37:01 CEST 2013
+achievements -l
+Date: Mon Oct 21 10:37:03 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:37:03 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:37:03 CEST 2013
+achievements -p
+Date: Mon Oct 21 10:37:08 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:37:08 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:37:08 CEST 2013
+config -l
+Date: Mon Oct 21 10:37:21 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:37:21 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:37:21 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:38:01 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:38:01 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:38:26 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:38:26 CEST 2013
+config achievement.upload
+Date: Mon Oct 21 10:38:30 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:38:30 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:38:30 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:39:17 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:39:17 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:40:19 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:40:19 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:41:01 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:41:01 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 10:41:02 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 10:41:02 CEST 2013
+achievements -l
+Date: Mon Oct 21 11:37:29 CEST 2013
+achievements -l
+Date: Mon Oct 21 11:38:59 CEST 2013
+achievements -l
+Date: Mon Oct 21 11:40:27 CEST 2013
+achievements -l
+Date: Mon Oct 21 11:43:55 CEST 2013
+achievements -l
+Date: Mon Oct 21 11:49:14 CEST 2013
+achievements -l
+Date: Mon Oct 21 11:49:15 CEST 2013
+achievements -p
+Date: Mon Oct 21 11:49:18 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 11:49:55 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 11:49:55 CEST 2013
+config achievement.upload
+Date: Mon Oct 21 11:49:59 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 11:49:59 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 11:49:59 CEST 2013
+config --global achievement.upload true
+Date: Mon Oct 21 11:50:31 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 11:50:31 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 11:50:31 CEST 2013
+achievements -p
+Date: Mon Oct 21 11:50:46 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 11:50:46 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 11:50:46 CEST 2013
+status
+Date: Mon Oct 21 11:50:53 CEST 2013
+rev-parse --git-dir
+Date: Mon Oct 21 11:50:53 CEST 2013
+symbolic-ref HEAD
+Date: Mon Oct 21 11:50:53 CEST 2013
