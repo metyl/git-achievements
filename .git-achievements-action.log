@@ -411,3 +411,25 @@ achievements -l
 Date: Fri Oct 18 18:02:46 CEST 2013
 config achievement.upload
 Date: Fri Oct 18 18:11:40 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Fri Oct 18 18:24:55 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Fri Oct 18 18:24:56 CEST 2013
+remote -v
+Date: 21 paź 2013 09:24:16
+status
+Date: 21 paź 2013 09:24:54
+status
+Date: 21 paź 2013 09:25:05
+pull
+Date: 21 paź 2013 09:25:17
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: 21 paź 2013 09:26:36
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: 21 paź 2013 09:26:37
+status
+Date: 21 paź 2013 09:26:41
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: 21 paź 2013 09:26:42
+fetch
+Date: 21 paź 2013 09:27:25
