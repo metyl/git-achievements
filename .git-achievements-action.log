@@ -433,3 +433,13 @@ rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tr
 Date: 21 paź 2013 09:26:42
 fetch
 Date: 21 paź 2013 09:27:25
+remote -v
+Date: 21 paź 2013 09:31:04
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Oct 21 07:31:28 GMT 2013
+status
+Date: Mon Oct 21 07:31:31 GMT 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Oct 21 07:31:31 GMT 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Oct 21 07:31:41 GMT 2013
