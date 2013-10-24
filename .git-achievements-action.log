@@ -767,3 +767,53 @@ rev-parse --git-dir
 Date: Mon Oct 21 12:17:26 CEST 2013
 symbolic-ref HEAD
 Date: Mon Oct 21 12:17:26 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:23:19 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:23:20 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:24:29 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:24:32 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:24:33 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:24:33 CEST 2013
+remote -v
+Date: 24 paź 2013 11:27:48
+remote remove origin
+Date: 24 paź 2013 11:28:08
+remote add origin git@git:doc-management.git
+Date: 24 paź 2013 11:28:52
+fetch
+Date: 24 paź 2013 11:28:58
+config -l
+Date: 24 paź 2013 11:30:06
+config core.autocrlf true
+Date: 24 paź 2013 11:30:56
+config -l
+Date: 24 paź 2013 11:30:59
+config --local core.autocrlf true
+Date: 24 paź 2013 11:31:20
+config -l
+Date: 24 paź 2013 11:31:23
+config -l
+Date: 24 paź 2013 11:32:03
+config -l
+Date: 24 paź 2013 11:32:10
+config core.autocrlf
+Date: 24 paź 2013 11:33:06
+status
+Date: 24 paź 2013 11:33:10
+branch --set-upstream master origin/master
+Date: 24 paź 2013 11:36:28
+branch --set-upstream-to origin/master
+Date: 24 paź 2013 11:36:54
+fetch
+Date: 24 paź 2013 11:37:01
+status
+Date: 24 paź 2013 11:37:04
+remote remove origin
+Date: 24 paź 2013 11:40:44
+remote add origin git@git:doc-management.git
+Date: 24 paź 2013 11:40:53
