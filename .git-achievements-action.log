@@ -857,3 +857,17 @@ achievements -l
 Date: 24 paź 2013 12:55:03
 fetch
 Date: 24 paź 2013 12:55:18
+fetch
+Date: 24 paź 2013 12:56:09
+config core.autocrlf
+Date: 24 paź 2013 12:56:23
+config --local core.autocrlf false
+Date: 24 paź 2013 12:56:49
+config core.autocrlf
+Date: 24 paź 2013 12:56:51
+achievements -l
+Date: 24 paź 2013 12:57:04
+remote -v
+Date: 24 paź 2013 12:57:12
+ls-files
+Date: 24 paź 2013 12:57:57
