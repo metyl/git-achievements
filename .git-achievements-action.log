@@ -817,3 +817,13 @@ remote remove origin
 Date: 24 paź 2013 11:40:44
 remote add origin git@git:doc-management.git
 Date: 24 paź 2013 11:40:53
+remote -v
+Date: 24 paź 2013 11:41:42
+remote remove origin
+Date: 24 paź 2013 11:42:01
+remote add origin gitgit@git:doc-management.git@git:doc-management.git
+Date: 24 paź 2013 11:42:34
+remote remove origin
+Date: 24 paź 2013 11:42:41
+remote add origin git@git:doc-management.git
+Date: 24 paź 2013 11:42:52
