@@ -1031,3 +1031,17 @@ symbolic-ref HEAD
 Date: Thu Oct 24 00:33:54 CEST 2013
 init
 Date: Thu Oct 24 00:45:41 CEST 2013
+ls-files
+Date: 24 paź 2013 13:17:41
+rm .project
+Date: 24 paź 2013 13:32:26
+rm .classpath
+Date: 24 paź 2013 13:32:45
+rm .cvsignore
+Date: 24 paź 2013 13:32:51
+status
+Date: 24 paź 2013 13:36:36
+rm -r .settings/
+Date: 24 paź 2013 13:36:54
+add .gitignore
+Date: 24 paź 2013 13:38:47
