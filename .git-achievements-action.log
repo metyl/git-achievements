@@ -1275,3 +1275,85 @@ rev-parse --git-dir
 Date: Mon Oct 28 22:05:43 CET 2013
 symbolic-ref HEAD
 Date: Mon Oct 28 22:05:43 CET 2013
+achievements -p
+Date: Mon Oct 28 22:05:57 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:05:57 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:05:57 CET 2013
+status
+Date: Mon Oct 28 22:06:08 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:06:08 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:06:08 CET 2013
+init
+Date: Mon Oct 28 22:15:45 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:15:45 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:15:45 CET 2013
+fast-import
+Date: Mon Oct 28 22:16:05 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:16:05 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:16:05 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:16:18 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:16:18 CET 2013
+branch
+Date: Mon Oct 28 22:16:27 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:16:27 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:16:27 CET 2013
+branch
+Date: Mon Oct 28 22:16:34 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:16:34 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:16:34 CET 2013
+tag
+Date: Mon Oct 28 22:16:46 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:16:46 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:16:46 CET 2013
+clone --bare tests-management.import.git tests-management.git
+Date: Mon Oct 28 22:17:53 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:22:57 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:22:57 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:22:58 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:22:58 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:23:06 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:23:06 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:23:06 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:23:06 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:23:22 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:23:22 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:23:24 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:23:24 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:31:04 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:31:04 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:31:39 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:31:39 CET 2013
+init
+Date: Mon Oct 28 22:54:55 CET 2013
