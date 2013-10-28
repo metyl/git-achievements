@@ -1019,3 +1019,15 @@ rev-parse --git-dir
 Date: Mon Oct 28 21:32:15 CET 2013
 symbolic-ref HEAD
 Date: Mon Oct 28 21:32:15 CET 2013
+commit -a -m from cgm git
+Date: Mon Oct 28 21:32:38 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 21:32:38 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 21:32:38 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 21:33:09 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 21:33:09 CET 2013
+log -10
+Date: Mon Oct 28 21:33:24 CET 2013
