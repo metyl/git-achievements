@@ -767,6 +767,110 @@ rev-parse --git-dir
 Date: Mon Oct 21 12:17:26 CEST 2013
 symbolic-ref HEAD
 Date: Mon Oct 21 12:17:26 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:23:19 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:23:20 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:24:29 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:24:32 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:24:33 CEST 2013
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Oct 24 11:24:33 CEST 2013
+remote -v
+Date: 24 paź 2013 11:27:48
+remote remove origin
+Date: 24 paź 2013 11:28:08
+remote add origin git@git:doc-management.git
+Date: 24 paź 2013 11:28:52
+fetch
+Date: 24 paź 2013 11:28:58
+config -l
+Date: 24 paź 2013 11:30:06
+config core.autocrlf true
+Date: 24 paź 2013 11:30:56
+config -l
+Date: 24 paź 2013 11:30:59
+config --local core.autocrlf true
+Date: 24 paź 2013 11:31:20
+config -l
+Date: 24 paź 2013 11:31:23
+config -l
+Date: 24 paź 2013 11:32:03
+config -l
+Date: 24 paź 2013 11:32:10
+config core.autocrlf
+Date: 24 paź 2013 11:33:06
+status
+Date: 24 paź 2013 11:33:10
+branch --set-upstream master origin/master
+Date: 24 paź 2013 11:36:28
+branch --set-upstream-to origin/master
+Date: 24 paź 2013 11:36:54
+fetch
+Date: 24 paź 2013 11:37:01
+status
+Date: 24 paź 2013 11:37:04
+remote remove origin
+Date: 24 paź 2013 11:40:44
+remote add origin git@git:doc-management.git
+Date: 24 paź 2013 11:40:53
+remote -v
+Date: 24 paź 2013 11:41:42
+remote remove origin
+Date: 24 paź 2013 11:42:01
+remote add origin gitgit@git:doc-management.git@git:doc-management.git
+Date: 24 paź 2013 11:42:34
+remote remove origin
+Date: 24 paź 2013 11:42:41
+remote add origin git@git:doc-management.git
+Date: 24 paź 2013 11:42:52
+remote remove origin
+Date: 24 paź 2013 11:43:03
+remote add origin https://metyl@github.com/metyl/git-achievements.git
+Date: 24 paź 2013 11:43:30
+branch --set-upstream-to origin/gh-pages
+Date: 24 paź 2013 11:44:25
+fetch
+Date: 24 paź 2013 11:44:41
+fetch
+Date: 24 paź 2013 11:55:29
+status
+Date: 24 paź 2013 11:55:32
+config core.autocrlf
+Date: 24 paź 2013 11:55:40
+config --local core.autocrlf true
+Date: 24 paź 2013 11:55:50
+config core.autocrlf
+Date: 24 paź 2013 11:55:52
+status
+Date: 24 paź 2013 11:55:56
+fetch
+Date: 24 paź 2013 11:56:01
+branch --set-upstream-to origin/master
+Date: 24 paź 2013 11:59:15
+pull
+Date: 24 paź 2013 11:59:21
+achievements -l
+Date: 24 paź 2013 12:55:03
+fetch
+Date: 24 paź 2013 12:55:18
+fetch
+Date: 24 paź 2013 12:56:09
+config core.autocrlf
+Date: 24 paź 2013 12:56:23
+config --local core.autocrlf false
+Date: 24 paź 2013 12:56:49
+config core.autocrlf
+Date: 24 paź 2013 12:56:51
+achievements -l
+Date: 24 paź 2013 12:57:04
+remote -v
+Date: 24 paź 2013 12:57:12
+ls-files
+Date: 24 paź 2013 12:57:57
 commit -a -m from cgm git
 Date: Mon Oct 21 12:17:37 CEST 2013
 rev-parse --git-dir
