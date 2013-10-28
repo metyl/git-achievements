@@ -1001,3 +1001,21 @@ symbolic-ref HEAD
 Date: Thu Oct 24 00:57:57 CEST 2013
 achievements -l
 Date: Mon Oct 28 21:29:20 CET 2013
+achievements -p
+Date: Mon Oct 28 21:29:47 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 21:30:21 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 21:30:21 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 21:30:22 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 21:30:22 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 21:30:31 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 21:30:31 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 21:32:15 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 21:32:15 CET 2013
