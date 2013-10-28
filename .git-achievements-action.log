@@ -1357,3 +1357,47 @@ symbolic-ref HEAD
 Date: Mon Oct 28 22:31:39 CET 2013
 init
 Date: Mon Oct 28 22:54:55 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:55:01 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:55:01 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:55:16 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:55:16 CET 2013
+fast-import
+Date: Mon Oct 28 22:55:46 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:55:47 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:55:47 CET 2013
+branch
+Date: Mon Oct 28 22:56:03 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:56:03 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:56:03 CET 2013
+tag
+Date: Mon Oct 28 22:56:14 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:56:14 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:56:14 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:56:51 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:56:51 CET 2013
+branch
+Date: Mon Oct 28 22:56:57 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:56:57 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:56:57 CET 2013
+prune
+Date: Mon Oct 28 22:57:04 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 22:57:04 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 22:57:04 CET 2013
+gc --aggressive
+Date: Mon Oct 28 22:57:19 CET 2013
