@@ -2105,3 +2105,55 @@ status
 Date: 29 paź 2013 09:19:39
 add .
 Date: 29 paź 2013 09:19:49
+status
+Date: 29 paź 2013 09:20:10
+reset HEAD reporter-web/src/main/webapp/WEB-INF/web.xml reporter-web/src/main/webapp/WEB-INF/lib/serverAppletLibs.jar reporter-core/src/main/java/pl/com/cgm/reporter/http/reportExporter/PrintReportExporter.java reporter-core/src/main/java/pl/com/cgm/reporter/http/SetCharacterEncodingFilter.java reporter-core/src/main/java/pl/com/cgm/reporter/CheckPrinterServices.java
+Date: 29 paź 2013 09:20:44
+status
+Date: 29 paź 2013 09:20:48
+rm -r --cached .
+Date: 29 paź 2013 09:22:11
+add .
+Date: 29 paź 2013 09:22:18
+status
+Date: 29 paź 2013 09:22:24
+reset HEAD reporter-web/src/main/webapp/WEB-INF/web.xml reporter-web/src/main/webapp/WEB-INF/lib/serverAppletLibs.jar reporter-core/src/main/java/pl/com/cgm/reporter/http/reportExporter/PrintReportExporter.java reporter-core/src/main/java/pl/com/cgm/reporter/http/SetCharacterEncodingFilter.java reporter-core/src/main/java/pl/com/cgm/reporter/CheckPrinterServices.java
+Date: 29 paź 2013 09:22:28
+status
+Date: 29 paź 2013 09:22:31
+commit -m applied .gitignore
+Date: 29 paź 2013 09:22:57
+rm -r --cached .
+Date: 29 paź 2013 09:24:21
+add .
+Date: 29 paź 2013 09:24:30
+status
+Date: 29 paź 2013 09:24:34
+push
+Date: 29 paź 2013 09:25:02
+reset HEAD
+Date: 29 paź 2013 09:25:26
+status
+Date: 29 paź 2013 09:25:36
+checkout -- .gitignore
+Date: 29 paź 2013 09:26:09
+ls-files -ci --exclude-standard -z
+Date: 29 paź 2013 09:48:26
+clone git@git:jgrafik.git jgrafik.git
+Date: 29 paź 2013 09:49:40
+fetch
+Date: 29 paź 2013 09:50:44
+pull
+Date: 29 paź 2013 09:50:54
+gc
+Date: 29 paź 2013 10:37:51
+gc
+Date: 29 paź 2013 10:38:07
+prune
+Date: 29 paź 2013 10:39:39
+gc --aggressive
+Date: 29 paź 2013 10:40:03
+status
+Date: 29 paź 2013 10:41:03
+gc --auto
+Date: 29 paź 2013 10:41:19
