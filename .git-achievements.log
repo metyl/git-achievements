@@ -149,3 +149,11 @@
   Used git gc to run a number of housekeeping tasks on the current repository.  
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                              Stone Mason (Level 4)                              
+   Added files to the index area for inclusion in the next commit with git add   
+********************************************************************************
+
