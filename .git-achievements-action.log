@@ -1047,3 +1047,31 @@ add .gitignore
 Date: 24 paź 2013 13:38:47
 fetch
 Date: 24 paź 2013 13:40:02
+config achievement.upload
+Date: 24 paź 2013 13:41:57
+config --global achievement.upload
+Date: 24 paź 2013 13:42:44
+status
+Date: 24 paź 2013 13:42:53
+commit -m cleanup
+Date: 24 paź 2013 13:43:23
+config core.autocrlf
+Date: 24 paź 2013 13:44:03
+push
+Date: 24 paź 2013 13:44:09
+rm -r --cached .
+Date: 24 paź 2013 13:56:51
+add .
+Date: 24 paź 2013 13:56:59
+commit -m applied .gitignore
+Date: 24 paź 2013 13:57:51
+push
+Date: 24 paź 2013 13:58:25
+branch --set-upstream-to origin/master
+Date: 28 paź 2013 16:36:42
+branch --set-upstream-to origin/beta
+Date: 28 paź 2013 16:39:51
+branch --set-upstream-to origin/beta
+Date: 28 paź 2013 17:09:56
+config core.autocrlf
+Date: 28 paź 2013 17:41:53
