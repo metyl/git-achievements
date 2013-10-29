@@ -1571,3 +1571,455 @@ symbolic-ref HEAD
 Date: Mon Oct 28 23:49:55 CET 2013
 gc --aggressive
 Date: Mon Oct 28 23:50:12 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:50:18 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:50:18 CET 2013
+repack -a -d --depth=250 --window=250
+Date: Mon Oct 28 23:50:27 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:50:27 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:50:27 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:51:41 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:51:41 CET 2013
+branch -v
+Date: Mon Oct 28 23:51:49 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:51:49 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:51:49 CET 2013
+branch -a
+Date: Mon Oct 28 23:51:51 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:51:51 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:51:51 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:52:13 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:52:13 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:54:22 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:54:22 CET 2013
+--help
+Date: Mon Oct 28 23:54:31 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:54:31 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:54:31 CET 2013
+remote --help
+Date: Mon Oct 28 23:57:05 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:57:05 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:57:05 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:57:08 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:57:08 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:59:43 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:59:43 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:59:44 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:59:44 CET 2013
+rev-parse --git-dir
+Date: Mon Oct 28 23:59:54 CET 2013
+symbolic-ref HEAD
+Date: Mon Oct 28 23:59:54 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:00:09 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:00:09 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:00:15 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:00:15 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:00:30 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:00:30 CET 2013
+clone ../../repositories/jgrafik.git/ jgrafik.git
+Date: Tue Oct 29 00:04:38 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:04:43 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:04:43 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:04:44 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:04:44 CET 2013
+branch -a
+Date: Tue Oct 29 00:04:59 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:04:59 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:04:59 CET 2013
+remote
+Date: Tue Oct 29 00:06:05 CET 2013
+remote set-head origin HEAD_Java_5
+Date: Tue Oct 29 00:06:19 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:06:19 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:06:20 CET 2013
+branch
+Date: Tue Oct 29 00:06:27 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:06:27 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:06:27 CET 2013
+branch -a
+Date: Tue Oct 29 00:06:31 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:06:31 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:06:31 CET 2013
+branch -r
+Date: Tue Oct 29 00:07:02 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:07:02 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:07:02 CET 2013
+push
+Date: Tue Oct 29 00:07:15 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:07:15 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:07:15 CET 2013
+branch push
+Date: Tue Oct 29 00:07:33 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:07:33 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:07:33 CET 2013
+branch -a
+Date: Tue Oct 29 00:07:56 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:07:56 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:07:56 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:09:27 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:09:27 CET 2013
+remote show
+Date: Tue Oct 29 00:09:37 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:09:37 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:09:37 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:09:56 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:09:56 CET 2013
+fetch
+Date: Tue Oct 29 00:12:15 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:12:15 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:12:15 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:12:20 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:12:20 CET 2013
+remote show
+Date: Tue Oct 29 00:12:39 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:12:39 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:12:39 CET 2013
+remote
+Date: Tue Oct 29 00:12:45 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:12:45 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:12:45 CET 2013
+remote show origin
+Date: Tue Oct 29 00:14:05 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:14:05 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:14:05 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:17:35 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:17:35 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:17:54 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:17:54 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:18:16 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:18:16 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:18:31 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:18:31 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:18:47 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:18:47 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:18:57 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:18:57 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:19:01 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:19:01 CET 2013
+branch -a
+Date: Tue Oct 29 00:19:07 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:19:07 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:19:07 CET 2013
+symbolic-ref HEAD refs/heads/HEAD_Java_5
+Date: Tue Oct 29 00:21:51 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:21:51 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:21:51 CET 2013
+branch -a
+Date: Tue Oct 29 00:22:03 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:22:03 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:22:03 CET 2013
+status
+Date: Tue Oct 29 00:22:27 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:22:27 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:22:27 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:26:04 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:26:04 CET 2013
+remote show origin
+Date: Tue Oct 29 00:26:10 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:26:10 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:26:10 CET 2013
+symbolic-ref HEAD refs/heads/master
+Date: Tue Oct 29 00:28:11 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:28:11 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:28:12 CET 2013
+status
+Date: Tue Oct 29 00:28:17 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:28:17 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:28:17 CET 2013
+tag
+Date: Tue Oct 29 00:28:34 CET 2013
+branch --no-color -a
+Date: Tue Oct 29 00:28:34 CET 2013
+checkout HEAD_Java_5
+Date: Tue Oct 29 00:28:45 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:28:45 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:28:45 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:28:49 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:28:49 CET 2013
+branch
+Date: Tue Oct 29 00:28:52 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:28:52 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:28:52 CET 2013
+branch show
+Date: Tue Oct 29 00:29:03 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:29:03 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:29:03 CET 2013
+branch -D push
+Date: Tue Oct 29 00:29:31 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:29:31 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:29:31 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:29:33 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:29:33 CET 2013
+branch -a
+Date: Tue Oct 29 00:29:42 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:29:42 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:29:42 CET 2013
+branch -D show
+Date: Tue Oct 29 00:29:50 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:29:50 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:29:50 CET 2013
+branch -a
+Date: Tue Oct 29 00:30:01 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:30:01 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:30:01 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:30:17 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:30:17 CET 2013
+remote set-head origin -a
+Date: Tue Oct 29 00:30:29 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:30:29 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:30:29 CET 2013
+remote show origin
+Date: Tue Oct 29 00:30:40 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:30:40 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:30:41 CET 2013
+remote set-head origin HEAD_Java_5
+Date: Tue Oct 29 00:31:20 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:31:20 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:31:20 CET 2013
+remote show origin
+Date: Tue Oct 29 00:31:23 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:31:23 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:31:23 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:31:34 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:31:34 CET 2013
+branch -a
+Date: Tue Oct 29 00:31:40 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:31:40 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:31:40 CET 2013
+push
+Date: Tue Oct 29 00:31:46 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:31:46 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:31:46 CET 2013
+push origin HEAD_Java_5
+Date: Tue Oct 29 00:37:13 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:37:13 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:37:13 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:38:22 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:38:22 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:38:31 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:38:31 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:38:32 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:38:32 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:38:42 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:38:42 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:39:05 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:39:05 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:39:06 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:39:06 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:39:10 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:39:10 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:39:10 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:39:10 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:39:10 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:39:10 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:39:11 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:39:11 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:41:42 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:41:42 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:42:09 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:42:09 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:42:21 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:42:21 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:42:21 CET 2013
+symbolic-ref HEAD refs/heads/HEAD_Java_5
+Date: Tue Oct 29 00:42:38 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:42:38 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:42:38 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:42:52 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:42:52 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:42:54 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:42:54 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:42:56 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:42:56 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:43:11 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:43:11 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:43:17 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:43:17 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 00:43:20 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 00:43:20 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 08:31:00 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 08:31:01 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 08:31:01 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 08:31:01 CET 2013
+status
+Date: Tue Oct 29 08:31:04 CET 2013
+rev-parse --git-dir
+Date: Tue Oct 29 08:31:04 CET 2013
+symbolic-ref HEAD
+Date: Tue Oct 29 08:31:04 CET 2013
