@@ -2157,3 +2157,173 @@ status
 Date: 29 paź 2013 10:41:03
 gc --auto
 Date: 29 paź 2013 10:41:19
+status
+Date: 29 paź 2013 10:41:48
+status
+Date: 29 paź 2013 10:42:29
+fetch
+Date: 29 paź 2013 10:43:52
+pull
+Date: 29 paź 2013 10:43:58
+pull
+Date: 29 paź 2013 10:49:50
+fetch -p
+Date: 29 paź 2013 10:53:19
+config core.autocrlf
+Date: 29 paź 2013 11:17:36
+status
+Date: 29 paź 2013 11:27:15
+status
+Date: 29 paź 2013 11:42:40
+ls-files -ci --exclude-standard -z
+Date: 29 paź 2013 11:43:12
+ls-files
+Date: 29 paź 2013 11:43:58
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 11:44:17
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 11:50:36
+ls-files -ci --exclude-standard -z
+Date: 29 paź 2013 11:50:43
+ls-files -ci --exclude-standard -z
+Date: 29 paź 2013 11:54:58
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 11:55:00
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 11:55:39
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 11:58:02
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:01:42
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:03:06
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:03:15
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:03:26
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:03:29
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:04:18
+status
+Date: 29 paź 2013 12:04:24
+add .gitignore
+Date: 29 paź 2013 12:04:58
+add build.properties
+Date: 29 paź 2013 12:05:21
+status
+Date: 29 paź 2013 12:06:02
+add .gitignore
+Date: 29 paź 2013 12:06:34
+status
+Date: 29 paź 2013 12:06:40
+commit -m added and applied .gitignore
+Date: 29 paź 2013 12:07:19
+push
+Date: 29 paź 2013 12:07:26
+fetch -p
+Date: 29 paź 2013 12:07:39
+pull
+Date: 29 paź 2013 12:07:46
+status
+Date: 29 paź 2013 12:08:08
+status
+Date: 29 paź 2013 12:09:18
+status
+Date: 29 paź 2013 12:09:43
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:26:35
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:27:00
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:27:08
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:27:24
+status
+Date: 29 paź 2013 12:27:28
+checkout -- .gitignore
+Date: 29 paź 2013 12:27:53
+status
+Date: 29 paź 2013 12:28:01
+commit -m applied .gitignore
+Date: 29 paź 2013 12:28:21
+push
+Date: 29 paź 2013 12:28:28
+status
+Date: 29 paź 2013 12:29:28
+status
+Date: 29 paź 2013 12:44:50
+fetch -p
+Date: 29 paź 2013 12:55:33
+mv --help
+Date: 29 paź 2013 13:03:37
+mv --help
+Date: 30 paź 2013 16:31:04
+mv patch_v6.3_124_004.sql patch_v6.3_124_012.sql patch_v6.3_124_014.sql patch_v6.3_124_016.sql patch_v6.3_124_017.sql patch_v6.3_124_021.sql patch_v6.3_124_023.sql patch_v6.3_124_024.sql patch_v6.3_124_028.sql patch_v6.3_124_031.sql patch_v6.3_124_033.sql 6.4/
+Date:  8 lis 2013 12:46:45
+mv patch_v6.3_124_004.sql patch_v6.3_124_012.sql patch_v6.3_124_014.sql patch_v6.3_124_016.sql patch_v6.3_124_017.sql patch_v6.3_124_021.sql patch_v6.3_124_023.sql patch_v6.3_124_024.sql patch_v6.3_124_028.sql patch_v6.3_124_031.sql patch_v6.3_124_033.sql 6.4/
+Date:  8 lis 2013 12:52:12
+status
+Date:  8 lis 2013 12:52:20
+commit -a -m zmiana lokalizacji patch'y zgodnie z nową konwnecją
+Date:  8 lis 2013 12:53:05
+checkout beta
+Date:  8 lis 2013 14:06:34
+checkout
+Date:  8 lis 2013 14:07:56
+branch
+Date:  8 lis 2013 14:08:16
+checkout
+Date:  8 lis 2013 14:08:31
+status
+Date:  8 lis 2013 14:10:45
+mv patch_v6.3_124_004.sql 6.4.0.1.sql
+Date:  8 lis 2013 14:16:49
+mv patch_v6.3_124_012.sql 6.4.0.12.sql
+Date:  8 lis 2013 14:17:05
+mv patch_v6.3_124_014.sql 6.4.0.14.sql
+Date:  8 lis 2013 14:17:15
+mv patch_v6.3_124_016.sql 6.4.0.16.sql
+Date:  8 lis 2013 14:19:20
+mv patch_v6.3_124_017.sql 6.4.0.17.sql
+Date:  8 lis 2013 14:19:29
+mv patch_v6.3_124_021.sql 6.4.0.21.sql
+Date:  8 lis 2013 14:19:38
+mv patch_v6.3_124_023.sql 6.4.0.23.sql
+Date:  8 lis 2013 14:19:48
+mv patch_v6.3_124_024.sql 6.4.0.24.sql
+Date:  8 lis 2013 14:19:55
+mv patch_v6.3_124_028.sql 6.4.0.28.sql
+Date:  8 lis 2013 14:20:03
+mv patch_v6.3_124_031.sql 6.4.0.31.sql
+Date:  8 lis 2013 14:20:12
+mv patch_v6.3_124_033.sql 6.4.0.33.sql
+Date:  8 lis 2013 14:20:19
+status
+Date:  8 lis 2013 14:21:31
+mv 6.4.0.1.sql 6.4.0.4.sql
+Date:  8 lis 2013 14:27:57
+status
+Date:  8 lis 2013 14:28:04
+commit -m zmiana lokalizacji patch'y zgodnie z nową konwnecją
+Date:  8 lis 2013 14:29:10
+status
+Date:  8 lis 2013 14:29:19
+checkout beta
+Date:  8 lis 2013 14:29:28
+fetch -p
+Date:  8 lis 2013 14:29:35
+merge #110890 --no-ff
+Date:  8 lis 2013 14:30:13
+status
+Date:  8 lis 2013 14:30:18
+push
+Date:  8 lis 2013 14:30:28
+checkout master
+Date:  8 lis 2013 14:30:36
+status
+Date:  8 lis 2013 14:30:42
+fetch -p
+Date:  8 lis 2013 14:30:52
+merge #110890 --no-ff
+Date:  8 lis 2013 14:33:11
