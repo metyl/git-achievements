@@ -2343,3 +2343,167 @@ pull
 Date:  8 lis 2013 14:48:34
 merge #110890 --no-ff
 Date:  8 lis 2013 14:48:40
+push origin
+Date:  8 lis 2013 14:49:24
+checkout beta
+Date:  8 lis 2013 14:51:28
+mv patch_v6.3_124_004.sql 6.4.0.4.sql
+Date:  8 lis 2013 14:52:42
+status
+Date:  8 lis 2013 14:52:47
+reset --hard HEAD
+Date:  8 lis 2013 14:53:27
+checkout #110890
+Date:  8 lis 2013 14:53:40
+status
+Date:  8 lis 2013 14:53:43
+mv patch_v6.3_124_004.sql 6.4.0.4.sql
+Date:  8 lis 2013 14:53:59
+mv patch_v6.3_124_012.sql 6.4.0.12.sql
+Date:  8 lis 2013 14:54:07
+mv patch_v6.3_124_014.sql 6.4.0.14.sql
+Date:  8 lis 2013 14:54:15
+mv patch_v6.3_124_016.sql 6.4.0.16.sql
+Date:  8 lis 2013 14:54:23
+mv patch_v6.3_124_017.sql 6.4.0.17.sql
+Date:  8 lis 2013 14:54:36
+mv patch_v6.3_124_021.sql 6.4.0.21.sql
+Date:  8 lis 2013 14:54:44
+mv patch_v6.3_124_023.sql 6.4.0.23.sql
+Date:  8 lis 2013 14:54:50
+mv patch_v6.3_124_024.sql 6.4.0.24.sql
+Date:  8 lis 2013 14:54:56
+mv patch_v6.3_124_028.sql 6.4.0.28.sql
+Date:  8 lis 2013 14:55:05
+mv patch_v6.3_124_031.sql 6.4.0.31.sql
+Date:  8 lis 2013 14:55:16
+mv patch_v6.3_124_033.sql 6.4.0.3.sql
+Date:  8 lis 2013 14:55:23
+mv 6.4.0.31.sql 6.4.0.33.sql
+Date:  8 lis 2013 14:55:49
+status
+Date:  8 lis 2013 14:55:53
+mv 6.4.0.33.sql 6.4.0.31.sql
+Date:  8 lis 2013 14:56:38
+mv 6.4.0.3.sql 6.4.0.33.sql
+Date:  8 lis 2013 14:56:55
+status
+Date:  8 lis 2013 14:56:58
+commit -m zmiana lokalizacji patch'y zgodnie z nową konwnecją
+Date:  8 lis 2013 14:57:15
+checkout beta
+Date:  8 lis 2013 14:59:46
+pull
+Date:  8 lis 2013 14:59:52
+merge #110890 --no-ff
+Date:  8 lis 2013 14:59:57
+push
+Date:  8 lis 2013 15:00:03
+checkout master
+Date:  8 lis 2013 15:00:11
+pull
+Date:  8 lis 2013 15:00:19
+merge #110890 --no-ff
+Date:  8 lis 2013 15:00:33
+status
+Date:  8 lis 2013 15:00:46
+push
+Date:  8 lis 2013 15:00:57
+pull
+Date:  8 lis 2013 15:31:34
+mv patch_v6.5.001.sql patch_v6.5.005.sql patch_v6.5.014.sql 6.5
+Date:  8 lis 2013 15:32:44
+reset --hard HEAD
+Date:  8 lis 2013 15:33:18
+status
+Date:  8 lis 2013 15:45:55
+checkout #110890
+Date:  8 lis 2013 15:46:19
+mv dbmodel_patch_054_845.dbm dbmodel_patch_054_846.dbm dbmodel_patch_054_847.dbm dbmodel_patch_054_848.dbm dbmodel_patch_054_849.dbm 6.4/
+Date:  8 lis 2013 15:48:47
+status
+Date:  8 lis 2013 15:48:52
+config core.autocrlf
+Date:  8 lis 2013 15:49:10
+status
+Date:  8 lis 2013 15:49:15
+mv dbmodel_patch_054_845.dbm dbmodel_patch_054_846.dbm dbmodel_patch_054_847.dbm dbmodel_patch_054_848.dbm dbmodel_patch_054_849.dbm 6.4/
+Date:  8 lis 2013 15:49:58
+status
+Date:  8 lis 2013 15:50:02
+status
+Date:  8 lis 2013 15:50:09
+commit -m zmiana lokalizacji dbmodel patch'y zgodnie z nową konwnecją
+Date:  8 lis 2013 15:50:40
+checkout beta
+Date:  8 lis 2013 15:51:05
+status
+Date:  8 lis 2013 15:51:11
+pull
+Date:  8 lis 2013 15:51:18
+merge #110890 --no-ff
+Date:  8 lis 2013 15:51:24
+status
+Date:  8 lis 2013 15:51:38
+push
+Date:  8 lis 2013 15:51:44
+checkout master
+Date:  8 lis 2013 15:53:44
+pull
+Date:  8 lis 2013 15:53:52
+status
+Date:  8 lis 2013 15:54:01
+mv patch_v6.5.001.sql patch_v6.5.005.sql patch_v6.5.014.sql 6.5/
+Date:  8 lis 2013 15:56:14
+mv ../Oracle/patch_v6.5.001.sql ../Oracle/patch_v6.5.005.sql ../Oracle/patch_v6.5.014.sql ../Oracle/6.5/
+Date:  8 lis 2013 15:56:57
+status
+Date:  8 lis 2013 15:57:02
+mv patch_v6.5.001.sql 6.5.0.1.sql
+Date:  8 lis 2013 15:57:42
+mv patch_v6.5.005.sql 6.5.0.5.sql
+Date:  8 lis 2013 15:58:00
+log --oneline -10 6.5.0.14.sql
+Date:  8 lis 2013 15:58:26
+status
+Date:  8 lis 2013 16:05:37
+status
+Date:  8 lis 2013 16:06:58
+reset HEAD ../patch_v6.5.014.sql
+Date:  8 lis 2013 16:07:22
+status
+Date:  8 lis 2013 16:07:27
+pull
+Date:  8 lis 2013 16:07:42
+status
+Date:  8 lis 2013 16:09:04
+status
+Date:  8 lis 2013 16:09:39
+mv patch_v6.5.005.sql 6.5.0.5.sql
+Date:  8 lis 2013 16:10:04
+mv patch_v6.5.001.sql 6.5.0.1.sql
+Date:  8 lis 2013 16:10:08
+status
+Date:  8 lis 2013 16:20:38
+pull
+Date:  8 lis 2013 16:20:49
+commit -m zmiana lokalizacji patch'y zgodnie z nową konwnecją
+Date:  8 lis 2013 16:21:24
+push
+Date:  8 lis 2013 16:21:30
+status
+Date:  8 lis 2013 16:32:59
+log --oneline -10 CHANGES
+Date:  8 lis 2013 16:33:39
+diff 97b57a7..3ae5470 CHANGES
+Date:  8 lis 2013 16:34:08
+clone git@git:clininet-lux.git clininet-lux.git
+Date:  8 lis 2013 18:14:41
+achievements
+Date:  9 lis 2013 01:34:38
+achievements
+Date:  9 lis 2013 01:34:45
+achievements -l
+Date:  9 lis 2013 01:34:49
+status
+Date:  9 lis 2013 01:35:09
