@@ -2507,3 +2507,11 @@ achievements -l
 Date:  9 lis 2013 01:34:49
 status
 Date:  9 lis 2013 01:35:09
+checkout beta
+Date: 12 lis 2013 08:38:00
+pull
+Date: 12 lis 2013 08:38:09
+checkout master
+Date: 12 lis 2013 08:39:19
+merge #110890 --no-ff
+Date: 12 lis 2013 08:39:30
