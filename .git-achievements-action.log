@@ -2723,3 +2723,67 @@ log --oneline --first-parent -n 10
 Date: 16 sty 2014 01:13:23
 log --oneline --first-parent -n 1`
 Date: 16 sty 2014 01:13:37
+log --oneline --first-parent -n 10
+Date: 16 sty 2014 01:13:49
+log --oneline --first-parent -n 11
+Date: 16 sty 2014 01:13:54
+status
+Date: 16 sty 2014 01:44:41
+checkout hotfix/2.1.2
+Date: 16 sty 2014 09:37:39
+clone git@git:e-contractor.git
+Date: 17 sty 2014 10:21:46
+clone git@git:econtractor.git
+Date: 17 sty 2014 10:44:27
+clone git@git:econtractor.git e-contractor
+Date: 17 sty 2014 11:24:31
+rm TEST_JST.txt
+Date: 17 sty 2014 12:15:29
+status
+Date: 17 sty 2014 12:15:44
+commit -m removed TEST_JST.txt
+Date: 17 sty 2014 12:16:30
+push
+Date: 17 sty 2014 12:16:36
+clone git@git:econtractor.git e-contractor
+Date: 17 sty 2014 12:35:37
+remote -v
+Date: 17 sty 2014 12:36:09
+remote
+Date: 17 sty 2014 12:36:13
+remote --help
+Date: 17 sty 2014 12:36:20
+remote set-head origin develop
+Date: 17 sty 2014 12:38:38
+push
+Date: 17 sty 2014 12:38:46
+status
+Date: 17 sty 2014 12:38:50
+clone git@git:econtractor.git e-contractor
+Date: 17 sty 2014 12:46:10
+update-server-info
+Date: 17 sty 2014 12:46:26
+status
+Date: 17 sty 2014 12:46:29
+checkout origin/develop
+Date: 17 sty 2014 12:46:38
+checkout develop
+Date: 17 sty 2014 12:46:58
+remote set-head origin develop
+Date: 17 sty 2014 12:47:09
+remote -v
+Date: 17 sty 2014 12:47:16
+add .editorconfig
+Date: 17 sty 2014 12:57:32
+status
+Date: 17 sty 2014 13:07:19
+checkout -- .gitignore
+Date: 17 sty 2014 13:07:33
+status
+Date: 17 sty 2014 13:07:36
+add .
+Date: 17 sty 2014 13:09:13
+status
+Date: 17 sty 2014 13:09:20
+commit -m .editorconfig added
+Date: 17 sty 2014 13:10:45
