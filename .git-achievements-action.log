@@ -2787,3 +2787,109 @@ status
 Date: 17 sty 2014 13:09:20
 commit -m .editorconfig added
 Date: 17 sty 2014 13:10:45
+status
+Date: 17 sty 2014 13:11:06
+push
+Date: 17 sty 2014 13:11:13
+status
+Date: 17 sty 2014 13:33:54
+config -l
+Date: 17 sty 2014 14:31:30
+remote show
+Date: 17 sty 2014 17:37:46
+remote update
+Date: 17 sty 2014 17:38:08
+status
+Date: 21 sty 2014 11:24:34
+log --oneline --first-parent -n 11
+Date: 21 sty 2014 11:24:44
+status
+Date: 21 sty 2014 11:59:08
+reset HEAD --hard
+Date: 21 sty 2014 11:59:18
+status
+Date: 21 sty 2014 11:59:22
+status
+Date: 21 sty 2014 12:14:46
+--version
+Date: 21 sty 2014 12:49:11
+status
+Date: 21 sty 2014 15:42:14
+log --oneline serverAppletLibs.jar
+Date: 21 sty 2014 15:42:31
+add -f serverAppletLibs.jar
+Date: 21 sty 2014 15:43:44
+commit -m missing serverAppletLibs.jar
+Date: 21 sty 2014 15:44:06
+log --oneline serverAppletLibs.jar
+Date: 21 sty 2014 15:45:51
+gc --auto
+Date: 21 sty 2014 18:18:12
+gc
+Date: 21 sty 2014 18:18:34
+repack -a -d --depth=250 --window=250 -f
+Date: 21 sty 2014 18:21:54
+prune
+Date: 21 sty 2014 18:23:04
+gc --prune=now
+Date: 21 sty 2014 18:23:30
+gc --aggressive --prune=now
+Date: 21 sty 2014 18:25:09
+gc --aggressive --prune=now
+Date: 21 sty 2014 18:26:20
+status
+Date: 23 sty 2014 13:41:04
+fetch
+Date: 23 sty 2014 13:41:13
+status
+Date: 23 sty 2014 18:58:25
+checkout #146299
+Date: 23 sty 2014 19:00:01
+status
+Date: 23 sty 2014 19:09:33
+status
+Date: 23 sty 2014 19:09:45
+status
+Date: 23 sty 2014 19:10:31
+rebase --abort
+Date: 23 sty 2014 19:10:58
+log master..HEAD
+Date: 23 sty 2014 23:04:32
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date: 23 sty 2014 23:07:05
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10 --oneline
+Date: 23 sty 2014 23:07:57
+remote
+Date: 23 sty 2014 23:08:35
+remote
+Date: 23 sty 2014 23:08:51
+remote
+Date: 23 sty 2014 23:08:52
+log master..HEAD
+Date: 23 sty 2014 23:14:41
+log master..HEAD
+Date: 23 sty 2014 23:14:53
+status
+Date: 23 sty 2014 23:15:01
+rebase --abort
+Date: 23 sty 2014 23:15:52
+checkout #146299
+Date: 23 sty 2014 23:16:04
+log master..HEAD
+Date: 23 sty 2014 23:16:11
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date: 23 sty 2014 23:16:46
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --oneline -10
+Date: 23 sty 2014 23:17:10
+remote
+Date: 23 sty 2014 23:17:41
+rebase --onto release_v6.10 master
+Date: 23 sty 2014 23:18:07
+status
+Date: 23 sty 2014 23:18:20
+log release_v6.10..HEAD
+Date: 23 sty 2014 23:18:39
+svn --help
+Date: 24 sty 2014 16:58:12
+svn init pharmacy/
+Date: 24 sty 2014 16:58:29
