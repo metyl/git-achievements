@@ -2893,3 +2893,11 @@ svn --help
 Date: 24 sty 2014 16:58:12
 svn init pharmacy/
 Date: 24 sty 2014 16:58:29
+svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pharmacy/tags --trunk https://svn:4443/Pharmacy/trunk/pharmacy
+Date: 24 sty 2014 17:50:58
+status
+Date: 24 sty 2014 17:51:28
+branch
+Date: 27 sty 2014 08:49:34
+svn --version
+Date: 27 sty 2014 09:03:39
