@@ -2103,3 +2103,19 @@ pull
 Date: Wed Jan 22 11:20:41 CET 2014
 push
 Date: Wed Jan 22 11:21:28 CET 2014
+commit -a -m mwrzesniewski added to @dsa
+Date: Wed Jan 22 11:26:52 CET 2014
+status
+Date: Wed Jan 22 11:26:58 CET 2014
+pull
+Date: Wed Jan 22 11:27:01 CET 2014
+push
+Date: Wed Jan 22 11:27:07 CET 2014
+--version
+Date: Fri Jan 24 16:53:19 CET 2014
+--version
+Date: Mon Jan 27 08:47:01 CET 2014
+svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pharmacy/tags --trunk https://svn:4443/Pharmacy/trunk/pharmacy
+Date: Mon Jan 27 15:11:42 CET 2014
+svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pharmacy/tags --trunk https://svn:4443/Pharmacy/trunk/pharmacy
+Date: Mon Jan 27 15:12:39 CET 2014
