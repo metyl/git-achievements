@@ -2119,3 +2119,9 @@ svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pha
 Date: Mon Jan 27 15:11:42 CET 2014
 svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pharmacy/tags --trunk https://svn:4443/Pharmacy/trunk/pharmacy
 Date: Mon Jan 27 15:12:39 CET 2014
+svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pharmacy/tags --trunk https://svn:4443/Pharmacy/trunk/pharmacy
+Date: Mon Jan 27 15:13:07 CET 2014
+remote -v
+Date: Mon Jan 27 15:13:11 CET 2014
+svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pharmacy/tags --trunk https://svn:4443/Pharmacy/trunk/pharmacy
+Date: Mon Jan 27 15:13:26 CET 2014
