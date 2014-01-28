@@ -2157,3 +2157,43 @@ log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
 Date: Tue Jan 28 17:03:55 CET 2014
 log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
 Date: Tue Jan 28 17:03:56 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:04:16 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:04:31 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:04:36 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:04:36 CET 2014
+branch -r
+Date: Tue Jan 28 17:04:46 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:04:47 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:10:28 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:33:30 CET 2014
+status
+Date: Tue Jan 28 17:44:38 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:44:38 CET 2014
+remote
+Date: Tue Jan 28 17:44:55 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:44:55 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:44:58 CET 2014
+remote --v
+Date: Tue Jan 28 17:45:01 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:45:01 CET 2014
+remote -v
+Date: Tue Jan 28 17:45:02 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:45:03 CET 2014
+svn fetch --authors-file=../authors.txt
+Date: Tue Jan 28 17:45:20 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:45:20 CET 2014
+svn info
+Date: Tue Jan 28 17:46:20 CET 2014
