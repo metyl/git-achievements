@@ -2901,3 +2901,13 @@ branch
 Date: 27 sty 2014 08:49:34
 svn --version
 Date: 27 sty 2014 09:03:39
+fetch
+Date: 27 sty 2014 09:04:26
+show
+Date: 27 sty 2014 09:04:40
+remote update
+Date: 27 sty 2014 09:04:52
+remote -v
+Date: 27 sty 2014 09:04:59
+svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pharmacy/tags --trunk https://svn:4443/Pharmacy/trunk/pharmacy
+Date: 27 sty 2014 15:14:07
