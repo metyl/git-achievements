@@ -3170,3 +3170,153 @@ remote -v
 Date: 27 sty 2014 09:04:59
 svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pharmacy/tags --trunk https://svn:4443/Pharmacy/trunk/pharmacy
 Date: 27 sty 2014 15:14:07
+svn init --tags=/tags --trunk=/trunk https://svn:4443/Pharmacy/trunk/pharmacy/shiro-session-web/
+Date: Tue Jan 28 22:54:45 CET 2014
+svn fetch --authors-file=../authors.txt
+Date: Tue Jan 28 22:55:17 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 22:55:17 CET 2014
+status
+Date: Tue Jan 28 22:55:35 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 22:55:35 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 22:55:42 CET 2014
+branch -a
+Date: Tue Jan 28 22:55:53 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 22:55:53 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 22:56:08 CET 2014
+for-each-ref
+Date: Tue Jan 28 22:59:16 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 22:59:16 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:00:02 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:00:13 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:00:13 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:04:53 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:04:54 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:04:54 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:04:54 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:05:55 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:05:55 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:05:55 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:05:55 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:06:10 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:06:10 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:06:41 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:06:41 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:06:51 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:06:51 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:08:10 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:08:11 CET 2014
+tag
+Date: Tue Jan 28 23:08:32 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:08:33 CET 2014
+tag 0a
+Date: Tue Jan 28 23:08:39 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:08:39 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:08:42 CET 2014
+tag -l
+Date: Tue Jan 28 23:08:46 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:08:46 CET 2014
+tag -d 0a
+Date: Tue Jan 28 23:09:12 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:09:12 CET 2014
+tag -l
+Date: Tue Jan 28 23:09:19 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:09:19 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:11:07 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:16:47 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:18:40 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:18:40 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:20:56 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:20:56 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:21:13 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:21:13 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:21:19 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:21:19 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:21:38 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:21:39 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:21:43 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:21:43 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:22:21 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:22:21 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:22:25 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:22:25 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:22:27 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:22:27 CET 2014
+for-each-ref --format=%(refname:short) %(objectname) refs/remotes/tags
+Date: Tue Jan 28 23:22:44 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:22:44 CET 2014
+log --oneline -10
+Date: Tue Jan 28 23:23:19 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:23:19 CET 2014
+log --oneline -25
+Date: Tue Jan 28 23:24:08 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:24:08 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:24:20 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:25:27 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:25:42 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:32:49 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:32:56 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:33:09 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 23:33:21 CET 2014
+log -n 25
+Date: Tue Jan 28 23:33:25 CET 2014
