@@ -2137,3 +2137,23 @@ svn init --branches=/branch --tags=/tags --trunk=/trunk/pharmacy https://svn:444
 Date: Mon Jan 27 15:26:44 CET 2014
 svn init --branches=/branch --tags=/tags --trunk=/trunk/pharmacy https://svn:4443/Pharmacy
 Date: Mon Jan 27 15:35:31 CET 2014
+svn init --branches=/branch --tags=/tags --trunk=/trunk/pharmacy https://svn:4443/Pharmacy
+Date: Mon Jan 27 15:35:46 CET 2014
+svn init --branches=/branch --tags=/tags --trunk=/trunk/pharmacy https://svn:4443/Pharmacy
+Date: Mon Jan 27 15:36:24 CET 2014
+svn init --branches=/branch --trunk=/trunk/pharmacy https://svn:4443/Pharmacy
+Date: Tue Jan 28 16:38:09 CET 2014
+svn fetch --authors-file=../authors.txt
+Date: Tue Jan 28 17:03:30 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:03:30 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:03:41 CET 2014
+log --oneline -5
+Date: Tue Jan 28 17:03:45 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:03:45 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:03:55 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:03:56 CET 2014
