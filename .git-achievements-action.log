@@ -1031,6 +1031,50 @@ symbolic-ref HEAD
 Date: Thu Oct 24 00:33:54 CEST 2013
 init
 Date: Thu Oct 24 00:45:41 CEST 2013
+ls-files
+Date: 24 paź 2013 13:17:41
+rm .project
+Date: 24 paź 2013 13:32:26
+rm .classpath
+Date: 24 paź 2013 13:32:45
+rm .cvsignore
+Date: 24 paź 2013 13:32:51
+status
+Date: 24 paź 2013 13:36:36
+rm -r .settings/
+Date: 24 paź 2013 13:36:54
+add .gitignore
+Date: 24 paź 2013 13:38:47
+fetch
+Date: 24 paź 2013 13:40:02
+config achievement.upload
+Date: 24 paź 2013 13:41:57
+config --global achievement.upload
+Date: 24 paź 2013 13:42:44
+status
+Date: 24 paź 2013 13:42:53
+commit -m cleanup
+Date: 24 paź 2013 13:43:23
+config core.autocrlf
+Date: 24 paź 2013 13:44:03
+push
+Date: 24 paź 2013 13:44:09
+rm -r --cached .
+Date: 24 paź 2013 13:56:51
+add .
+Date: 24 paź 2013 13:56:59
+commit -m applied .gitignore
+Date: 24 paź 2013 13:57:51
+push
+Date: 24 paź 2013 13:58:25
+branch --set-upstream-to origin/master
+Date: 28 paź 2013 16:36:42
+branch --set-upstream-to origin/beta
+Date: 28 paź 2013 16:39:51
+branch --set-upstream-to origin/beta
+Date: 28 paź 2013 17:09:56
+config core.autocrlf
+Date: 28 paź 2013 17:41:53
 rev-parse --git-dir
 Date: Thu Oct 24 00:45:53 CEST 2013
 symbolic-ref HEAD
@@ -2023,6 +2067,7 @@ rev-parse --git-dir
 Date: Tue Oct 29 08:31:04 CET 2013
 symbolic-ref HEAD
 Date: Tue Oct 29 08:31:04 CET 2013
+<<<<<<< HEAD
 achievements -p
 Date: Tue Oct 29 08:31:19 CET 2013
 rev-parse --git-dir
@@ -2281,3 +2326,847 @@ commit -a -m .git-achievements-action.log from tucan
 Date: Tue Jan 28 22:14:55 CET 2014
 status
 Date: Tue Jan 28 22:15:34 CET 2014
+clone git@git:reporter.git reporter.git
+Date: 29 paź 2013 08:42:27
+status
+Date: 29 paź 2013 09:02:35
+status -s
+Date: 29 paź 2013 09:02:39
+add .gitignore
+Date: 29 paź 2013 09:03:24
+commit -m added .gitignore
+Date: 29 paź 2013 09:04:15
+rm -r --cached .
+Date: 29 paź 2013 09:04:23
+add .
+Date: 29 paź 2013 09:04:35
+status
+Date: 29 paź 2013 09:04:42
+reset HEAD reporter-web/src/main/webapp/WEB-INF/lib/serverAppletLibs.jar
+Date: 29 paź 2013 09:09:49
+status
+Date: 29 paź 2013 09:10:00
+reset HEAD reporter-core/src/main/java/pl/com/cgm/reporter/CheckPrinterServices.java
+Date: 29 paź 2013 09:10:43
+reset HEAD reporter-core/src/main/java/pl/com/cgm/reporter/http/SetCharacterEncodingFilter.java
+Date: 29 paź 2013 09:10:52
+reset HEAD reporter-core/src/main/java/pl/com/cgm/reporter/http/reportExporter/PrintReportExporter.java
+Date: 29 paź 2013 09:11:09
+status
+Date: 29 paź 2013 09:11:24
+reset HEAD reporter-web/src/main/webapp/WEB-INF/web.xml
+Date: 29 paź 2013 09:11:41
+commit -m applied .gitignore
+Date: 29 paź 2013 09:12:56
+rm -r --cached .
+Date: 29 paź 2013 09:19:29
+status
+Date: 29 paź 2013 09:19:39
+add .
+Date: 29 paź 2013 09:19:49
+status
+Date: 29 paź 2013 09:20:10
+reset HEAD reporter-web/src/main/webapp/WEB-INF/web.xml reporter-web/src/main/webapp/WEB-INF/lib/serverAppletLibs.jar reporter-core/src/main/java/pl/com/cgm/reporter/http/reportExporter/PrintReportExporter.java reporter-core/src/main/java/pl/com/cgm/reporter/http/SetCharacterEncodingFilter.java reporter-core/src/main/java/pl/com/cgm/reporter/CheckPrinterServices.java
+Date: 29 paź 2013 09:20:44
+status
+Date: 29 paź 2013 09:20:48
+rm -r --cached .
+Date: 29 paź 2013 09:22:11
+add .
+Date: 29 paź 2013 09:22:18
+status
+Date: 29 paź 2013 09:22:24
+reset HEAD reporter-web/src/main/webapp/WEB-INF/web.xml reporter-web/src/main/webapp/WEB-INF/lib/serverAppletLibs.jar reporter-core/src/main/java/pl/com/cgm/reporter/http/reportExporter/PrintReportExporter.java reporter-core/src/main/java/pl/com/cgm/reporter/http/SetCharacterEncodingFilter.java reporter-core/src/main/java/pl/com/cgm/reporter/CheckPrinterServices.java
+Date: 29 paź 2013 09:22:28
+status
+Date: 29 paź 2013 09:22:31
+commit -m applied .gitignore
+Date: 29 paź 2013 09:22:57
+rm -r --cached .
+Date: 29 paź 2013 09:24:21
+add .
+Date: 29 paź 2013 09:24:30
+status
+Date: 29 paź 2013 09:24:34
+push
+Date: 29 paź 2013 09:25:02
+reset HEAD
+Date: 29 paź 2013 09:25:26
+status
+Date: 29 paź 2013 09:25:36
+checkout -- .gitignore
+Date: 29 paź 2013 09:26:09
+ls-files -ci --exclude-standard -z
+Date: 29 paź 2013 09:48:26
+clone git@git:jgrafik.git jgrafik.git
+Date: 29 paź 2013 09:49:40
+fetch
+Date: 29 paź 2013 09:50:44
+pull
+Date: 29 paź 2013 09:50:54
+gc
+Date: 29 paź 2013 10:37:51
+gc
+Date: 29 paź 2013 10:38:07
+prune
+Date: 29 paź 2013 10:39:39
+gc --aggressive
+Date: 29 paź 2013 10:40:03
+status
+Date: 29 paź 2013 10:41:03
+gc --auto
+Date: 29 paź 2013 10:41:19
+status
+Date: 29 paź 2013 10:41:48
+status
+Date: 29 paź 2013 10:42:29
+fetch
+Date: 29 paź 2013 10:43:52
+pull
+Date: 29 paź 2013 10:43:58
+pull
+Date: 29 paź 2013 10:49:50
+fetch -p
+Date: 29 paź 2013 10:53:19
+config core.autocrlf
+Date: 29 paź 2013 11:17:36
+status
+Date: 29 paź 2013 11:27:15
+status
+Date: 29 paź 2013 11:42:40
+ls-files -ci --exclude-standard -z
+Date: 29 paź 2013 11:43:12
+ls-files
+Date: 29 paź 2013 11:43:58
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 11:44:17
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 11:50:36
+ls-files -ci --exclude-standard -z
+Date: 29 paź 2013 11:50:43
+ls-files -ci --exclude-standard -z
+Date: 29 paź 2013 11:54:58
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 11:55:00
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 11:55:39
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 11:58:02
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:01:42
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:03:06
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:03:15
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:03:26
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:03:29
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:04:18
+status
+Date: 29 paź 2013 12:04:24
+add .gitignore
+Date: 29 paź 2013 12:04:58
+add build.properties
+Date: 29 paź 2013 12:05:21
+status
+Date: 29 paź 2013 12:06:02
+add .gitignore
+Date: 29 paź 2013 12:06:34
+status
+Date: 29 paź 2013 12:06:40
+commit -m added and applied .gitignore
+Date: 29 paź 2013 12:07:19
+push
+Date: 29 paź 2013 12:07:26
+fetch -p
+Date: 29 paź 2013 12:07:39
+pull
+Date: 29 paź 2013 12:07:46
+status
+Date: 29 paź 2013 12:08:08
+status
+Date: 29 paź 2013 12:09:18
+status
+Date: 29 paź 2013 12:09:43
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:26:35
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:27:00
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:27:08
+ls-files -ci --exclude-standard
+Date: 29 paź 2013 12:27:24
+status
+Date: 29 paź 2013 12:27:28
+checkout -- .gitignore
+Date: 29 paź 2013 12:27:53
+status
+Date: 29 paź 2013 12:28:01
+commit -m applied .gitignore
+Date: 29 paź 2013 12:28:21
+push
+Date: 29 paź 2013 12:28:28
+status
+Date: 29 paź 2013 12:29:28
+status
+Date: 29 paź 2013 12:44:50
+fetch -p
+Date: 29 paź 2013 12:55:33
+mv --help
+Date: 29 paź 2013 13:03:37
+mv --help
+Date: 30 paź 2013 16:31:04
+mv patch_v6.3_124_004.sql patch_v6.3_124_012.sql patch_v6.3_124_014.sql patch_v6.3_124_016.sql patch_v6.3_124_017.sql patch_v6.3_124_021.sql patch_v6.3_124_023.sql patch_v6.3_124_024.sql patch_v6.3_124_028.sql patch_v6.3_124_031.sql patch_v6.3_124_033.sql 6.4/
+Date:  8 lis 2013 12:46:45
+mv patch_v6.3_124_004.sql patch_v6.3_124_012.sql patch_v6.3_124_014.sql patch_v6.3_124_016.sql patch_v6.3_124_017.sql patch_v6.3_124_021.sql patch_v6.3_124_023.sql patch_v6.3_124_024.sql patch_v6.3_124_028.sql patch_v6.3_124_031.sql patch_v6.3_124_033.sql 6.4/
+Date:  8 lis 2013 12:52:12
+status
+Date:  8 lis 2013 12:52:20
+commit -a -m zmiana lokalizacji patch'y zgodnie z nową konwnecją
+Date:  8 lis 2013 12:53:05
+checkout beta
+Date:  8 lis 2013 14:06:34
+checkout
+Date:  8 lis 2013 14:07:56
+branch
+Date:  8 lis 2013 14:08:16
+checkout
+Date:  8 lis 2013 14:08:31
+status
+Date:  8 lis 2013 14:10:45
+mv patch_v6.3_124_004.sql 6.4.0.1.sql
+Date:  8 lis 2013 14:16:49
+mv patch_v6.3_124_012.sql 6.4.0.12.sql
+Date:  8 lis 2013 14:17:05
+mv patch_v6.3_124_014.sql 6.4.0.14.sql
+Date:  8 lis 2013 14:17:15
+mv patch_v6.3_124_016.sql 6.4.0.16.sql
+Date:  8 lis 2013 14:19:20
+mv patch_v6.3_124_017.sql 6.4.0.17.sql
+Date:  8 lis 2013 14:19:29
+mv patch_v6.3_124_021.sql 6.4.0.21.sql
+Date:  8 lis 2013 14:19:38
+mv patch_v6.3_124_023.sql 6.4.0.23.sql
+Date:  8 lis 2013 14:19:48
+mv patch_v6.3_124_024.sql 6.4.0.24.sql
+Date:  8 lis 2013 14:19:55
+mv patch_v6.3_124_028.sql 6.4.0.28.sql
+Date:  8 lis 2013 14:20:03
+mv patch_v6.3_124_031.sql 6.4.0.31.sql
+Date:  8 lis 2013 14:20:12
+mv patch_v6.3_124_033.sql 6.4.0.33.sql
+Date:  8 lis 2013 14:20:19
+status
+Date:  8 lis 2013 14:21:31
+mv 6.4.0.1.sql 6.4.0.4.sql
+Date:  8 lis 2013 14:27:57
+status
+Date:  8 lis 2013 14:28:04
+commit -m zmiana lokalizacji patch'y zgodnie z nową konwnecją
+Date:  8 lis 2013 14:29:10
+status
+Date:  8 lis 2013 14:29:19
+checkout beta
+Date:  8 lis 2013 14:29:28
+fetch -p
+Date:  8 lis 2013 14:29:35
+merge #110890 --no-ff
+Date:  8 lis 2013 14:30:13
+status
+Date:  8 lis 2013 14:30:18
+push
+Date:  8 lis 2013 14:30:28
+checkout master
+Date:  8 lis 2013 14:30:36
+status
+Date:  8 lis 2013 14:30:42
+fetch -p
+Date:  8 lis 2013 14:30:52
+merge #110890 --no-ff
+Date:  8 lis 2013 14:33:11
+status
+Date:  8 lis 2013 14:42:48
+checkout master
+Date:  8 lis 2013 14:43:09
+pull --rebase
+Date:  8 lis 2013 14:44:31
+reset --hard HEAD^1
+Date:  8 lis 2013 14:45:51
+merge #110890 --no-ff
+Date:  8 lis 2013 14:46:37
+reset --hard HEAD^1
+Date:  8 lis 2013 14:48:18
+pull
+Date:  8 lis 2013 14:48:34
+merge #110890 --no-ff
+Date:  8 lis 2013 14:48:40
+push origin
+Date:  8 lis 2013 14:49:24
+checkout beta
+Date:  8 lis 2013 14:51:28
+mv patch_v6.3_124_004.sql 6.4.0.4.sql
+Date:  8 lis 2013 14:52:42
+status
+Date:  8 lis 2013 14:52:47
+reset --hard HEAD
+Date:  8 lis 2013 14:53:27
+checkout #110890
+Date:  8 lis 2013 14:53:40
+status
+Date:  8 lis 2013 14:53:43
+mv patch_v6.3_124_004.sql 6.4.0.4.sql
+Date:  8 lis 2013 14:53:59
+mv patch_v6.3_124_012.sql 6.4.0.12.sql
+Date:  8 lis 2013 14:54:07
+mv patch_v6.3_124_014.sql 6.4.0.14.sql
+Date:  8 lis 2013 14:54:15
+mv patch_v6.3_124_016.sql 6.4.0.16.sql
+Date:  8 lis 2013 14:54:23
+mv patch_v6.3_124_017.sql 6.4.0.17.sql
+Date:  8 lis 2013 14:54:36
+mv patch_v6.3_124_021.sql 6.4.0.21.sql
+Date:  8 lis 2013 14:54:44
+mv patch_v6.3_124_023.sql 6.4.0.23.sql
+Date:  8 lis 2013 14:54:50
+mv patch_v6.3_124_024.sql 6.4.0.24.sql
+Date:  8 lis 2013 14:54:56
+mv patch_v6.3_124_028.sql 6.4.0.28.sql
+Date:  8 lis 2013 14:55:05
+mv patch_v6.3_124_031.sql 6.4.0.31.sql
+Date:  8 lis 2013 14:55:16
+mv patch_v6.3_124_033.sql 6.4.0.3.sql
+Date:  8 lis 2013 14:55:23
+mv 6.4.0.31.sql 6.4.0.33.sql
+Date:  8 lis 2013 14:55:49
+status
+Date:  8 lis 2013 14:55:53
+mv 6.4.0.33.sql 6.4.0.31.sql
+Date:  8 lis 2013 14:56:38
+mv 6.4.0.3.sql 6.4.0.33.sql
+Date:  8 lis 2013 14:56:55
+status
+Date:  8 lis 2013 14:56:58
+commit -m zmiana lokalizacji patch'y zgodnie z nową konwnecją
+Date:  8 lis 2013 14:57:15
+checkout beta
+Date:  8 lis 2013 14:59:46
+pull
+Date:  8 lis 2013 14:59:52
+merge #110890 --no-ff
+Date:  8 lis 2013 14:59:57
+push
+Date:  8 lis 2013 15:00:03
+checkout master
+Date:  8 lis 2013 15:00:11
+pull
+Date:  8 lis 2013 15:00:19
+merge #110890 --no-ff
+Date:  8 lis 2013 15:00:33
+status
+Date:  8 lis 2013 15:00:46
+push
+Date:  8 lis 2013 15:00:57
+pull
+Date:  8 lis 2013 15:31:34
+mv patch_v6.5.001.sql patch_v6.5.005.sql patch_v6.5.014.sql 6.5
+Date:  8 lis 2013 15:32:44
+reset --hard HEAD
+Date:  8 lis 2013 15:33:18
+status
+Date:  8 lis 2013 15:45:55
+checkout #110890
+Date:  8 lis 2013 15:46:19
+mv dbmodel_patch_054_845.dbm dbmodel_patch_054_846.dbm dbmodel_patch_054_847.dbm dbmodel_patch_054_848.dbm dbmodel_patch_054_849.dbm 6.4/
+Date:  8 lis 2013 15:48:47
+status
+Date:  8 lis 2013 15:48:52
+config core.autocrlf
+Date:  8 lis 2013 15:49:10
+status
+Date:  8 lis 2013 15:49:15
+mv dbmodel_patch_054_845.dbm dbmodel_patch_054_846.dbm dbmodel_patch_054_847.dbm dbmodel_patch_054_848.dbm dbmodel_patch_054_849.dbm 6.4/
+Date:  8 lis 2013 15:49:58
+status
+Date:  8 lis 2013 15:50:02
+status
+Date:  8 lis 2013 15:50:09
+commit -m zmiana lokalizacji dbmodel patch'y zgodnie z nową konwnecją
+Date:  8 lis 2013 15:50:40
+checkout beta
+Date:  8 lis 2013 15:51:05
+status
+Date:  8 lis 2013 15:51:11
+pull
+Date:  8 lis 2013 15:51:18
+merge #110890 --no-ff
+Date:  8 lis 2013 15:51:24
+status
+Date:  8 lis 2013 15:51:38
+push
+Date:  8 lis 2013 15:51:44
+checkout master
+Date:  8 lis 2013 15:53:44
+pull
+Date:  8 lis 2013 15:53:52
+status
+Date:  8 lis 2013 15:54:01
+mv patch_v6.5.001.sql patch_v6.5.005.sql patch_v6.5.014.sql 6.5/
+Date:  8 lis 2013 15:56:14
+mv ../Oracle/patch_v6.5.001.sql ../Oracle/patch_v6.5.005.sql ../Oracle/patch_v6.5.014.sql ../Oracle/6.5/
+Date:  8 lis 2013 15:56:57
+status
+Date:  8 lis 2013 15:57:02
+mv patch_v6.5.001.sql 6.5.0.1.sql
+Date:  8 lis 2013 15:57:42
+mv patch_v6.5.005.sql 6.5.0.5.sql
+Date:  8 lis 2013 15:58:00
+log --oneline -10 6.5.0.14.sql
+Date:  8 lis 2013 15:58:26
+status
+Date:  8 lis 2013 16:05:37
+status
+Date:  8 lis 2013 16:06:58
+reset HEAD ../patch_v6.5.014.sql
+Date:  8 lis 2013 16:07:22
+status
+Date:  8 lis 2013 16:07:27
+pull
+Date:  8 lis 2013 16:07:42
+status
+Date:  8 lis 2013 16:09:04
+status
+Date:  8 lis 2013 16:09:39
+mv patch_v6.5.005.sql 6.5.0.5.sql
+Date:  8 lis 2013 16:10:04
+mv patch_v6.5.001.sql 6.5.0.1.sql
+Date:  8 lis 2013 16:10:08
+status
+Date:  8 lis 2013 16:20:38
+pull
+Date:  8 lis 2013 16:20:49
+commit -m zmiana lokalizacji patch'y zgodnie z nową konwnecją
+Date:  8 lis 2013 16:21:24
+push
+Date:  8 lis 2013 16:21:30
+status
+Date:  8 lis 2013 16:32:59
+log --oneline -10 CHANGES
+Date:  8 lis 2013 16:33:39
+diff 97b57a7..3ae5470 CHANGES
+Date:  8 lis 2013 16:34:08
+clone git@git:clininet-lux.git clininet-lux.git
+Date:  8 lis 2013 18:14:41
+achievements
+Date:  9 lis 2013 01:34:38
+achievements
+Date:  9 lis 2013 01:34:45
+achievements -l
+Date:  9 lis 2013 01:34:49
+status
+Date:  9 lis 2013 01:35:09
+checkout beta
+Date: 12 lis 2013 08:38:00
+pull
+Date: 12 lis 2013 08:38:09
+checkout master
+Date: 12 lis 2013 08:39:19
+merge #110890 --no-ff
+Date: 12 lis 2013 08:39:30
+fetch -p
+Date: 12 lis 2013 13:08:29
+status
+Date: 12 lis 2013 13:08:52
+config -l
+Date:  2 gru 2013 12:51:34
+status
+Date:  2 gru 2013 12:52:05
+branch
+Date:  2 gru 2013 12:52:22
+fetch -p
+Date:  2 gru 2013 12:53:00
+status
+Date:  2 gru 2013 12:53:05
+fetch -p
+Date:  3 gru 2013 14:50:28
+status
+Date:  3 gru 2013 14:50:48
+status
+Date:  3 gru 2013 14:59:37
+status
+Date:  5 gru 2013 17:17:33
+status
+Date:  5 gru 2013 17:17:45
+clone git@git:reporter.git reporter.git
+Date:  6 gru 2013 11:15:34
+branch -r
+Date:  6 gru 2013 11:20:15
+remote set-head origin develop
+Date:  6 gru 2013 11:20:41
+branch -r
+Date:  6 gru 2013 11:20:48
+clone git@git:reporter.git reporter.git
+Date:  6 gru 2013 11:21:08
+branch -r
+Date:  6 gru 2013 11:21:28
+clone git@git:reporter.git reporter.git
+Date:  6 gru 2013 11:27:59
+branch -r
+Date:  6 gru 2013 11:28:19
+clone git@git:reporter.git reporter.git
+Date:  6 gru 2013 11:30:02
+branch -r
+Date:  6 gru 2013 11:30:21
+branch -a
+Date:  6 gru 2013 11:30:38
+clone git@git:jgrafik.git jgrafik.git
+Date:  6 gru 2013 11:31:08
+branch -a
+Date:  6 gru 2013 11:31:20
+status
+Date:  6 gru 2013 11:43:49
+clone git@git:reporter.git reporter.git
+Date:  6 gru 2013 11:44:36
+remote set-head origin develop
+Date:  6 gru 2013 11:45:01
+remote
+Date:  6 gru 2013 11:45:06
+branch -a
+Date:  6 gru 2013 11:45:13
+status
+Date:  6 gru 2013 11:45:30
+clone git@git:reporter.git reporter.git
+Date:  6 gru 2013 11:54:17
+branch -a
+Date:  6 gru 2013 11:54:59
+branch -a
+Date:  6 gru 2013 11:55:27
+branch -a
+Date:  6 gru 2013 12:01:01
+remote set-head origin develop
+Date:  6 gru 2013 12:01:15
+checkout develop
+Date:  6 gru 2013 12:01:24
+status
+Date:  6 gru 2013 12:01:37
+status
+Date:  6 gru 2013 12:12:35
+branch -a
+Date:  6 gru 2013 12:13:00
+branch
+Date:  6 gru 2013 12:13:11
+branch -v
+Date:  6 gru 2013 12:13:14
+branch -r
+Date:  6 gru 2013 12:13:18
+status -v
+Date: 16 gru 2013 15:28:33
+status -s
+Date: 16 gru 2013 15:28:35
+status -s
+Date: 16 gru 2013 15:29:14
+status -s
+Date: 16 gru 2013 15:29:22
+status -s
+Date: 16 gru 2013 15:29:36
+status -s
+Date: 16 gru 2013 15:30:18
+mv serverAppletLibs.jar ../../../../lib
+Date: 16 gru 2013 15:31:57
+status
+Date: 16 gru 2013 15:32:02
+status -s
+Date: 16 gru 2013 15:32:11
+mv lib ../../../lib
+Date: 16 gru 2013 15:34:36
+status -s
+Date: 16 gru 2013 15:34:40
+status -s
+Date: 16 gru 2013 15:36:42
+status
+Date: 16 gru 2013 15:37:14
+status -s
+Date: 16 gru 2013 15:37:16
+mv serverAppletLibs.jar ../../../../../lib/serverAppletLibs.jar
+Date: 16 gru 2013 15:38:38
+status -s
+Date: 16 gru 2013 15:38:42
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Fri Jan 10 08:34:32 GMT 2014
+show 5a2fccef073e6bb4d3b91dda2f7864bacb036150
+Date: Fri Jan 10 08:34:39 GMT 2014
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Fri Jan 10 08:34:40 GMT 2014
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Fri Jan 10 08:47:53 GMT 2014
+revert --help
+Date: 13 sty 2014 12:40:03
+revert HEAD~1 -m 1
+Date: 13 sty 2014 12:53:12
+revert HEAD~1 -m 1
+Date: 13 sty 2014 13:00:38
+log --oneline -2
+Date: 13 sty 2014 13:03:40
+reset --hard HEAD
+Date: 13 sty 2014 13:06:11
+revert HEAD -m 1
+Date: 13 sty 2014 13:06:53
+checkout release/2.0.10
+Date: 13 sty 2014 13:47:53
+status -s
+Date: 13 sty 2014 14:14:22
+show origin
+Date: 13 sty 2014 14:29:26
+remote
+Date: 13 sty 2014 14:29:40
+remote -v
+Date: 13 sty 2014 14:29:45
+rm release-pom.xml
+Date: 13 sty 2014 15:52:56
+rm reporter-core/release-pom.xml reporter-jasper/release-pom.xml reporter-jasper-fontExtension/release-pom.xml reporter-iReport/release-pom.xml reporter-web/release-pom.xml reporter-web-ear/release-pom.xml
+Date: 13 sty 2014 15:55:48
+status -s
+Date: 13 sty 2014 15:55:53
+status
+Date: 13 sty 2014 15:55:56
+commit -m [maven-release-plugin] cleanup
+Date: 13 sty 2014 15:56:35
+status
+Date: 13 sty 2014 16:16:55
+merge feature/#126765 develop --no-ff
+Date: 13 sty 2014 16:29:49
+status
+Date: 13 sty 2014 16:29:55
+status
+Date: 13 sty 2014 16:50:21
+log --oneline -2
+Date: 13 sty 2014 16:50:52
+merge feature/#126765 develop --no-ff
+Date: 13 sty 2014 16:55:07
+rm release-pom.xml reporter-client-api/release-pom.xml reporter-client-http-invoker/release-pom.xml reporter-core/release-pom.xml reporter-jasper-fontExtension/release-pom.xml reporter-jasper/release-pom.xml reporter-web-ear/release-pom.xml reporter-web/release-pom.xml
+Date: 14 sty 2014 13:58:45
+status
+Date: 14 sty 2014 14:25:23
+reset HEAD release-pom.xml
+Date: 14 sty 2014 14:26:17
+reset HEAD reporter-client-api/release-pom.xml reporter-client-http-invoker/release-pom.xml reporter-core/release-pom.xml reporter-jasper-fontExtension/release-pom.xml reporter-jasper/release-pom.xml reporter-web-ear/release-pom.xml reporter-web/release-pom.xml
+Date: 14 sty 2014 14:26:47
+rm release-pom.xml reporter-client-api/release-pom.xml reporter-client-http-invoker/release-pom.xml reporter-core/release-pom.xml reporter-jasper-fontExtension/release-pom.xml reporter-jasper/release-pom.xml reporter-web-ear/release-pom.xml reporter-web/release-pom.xml
+Date: 14 sty 2014 14:37:05
+reset HEAD --hard
+Date: 14 sty 2014 14:39:39
+reset HEAD --hard
+Date: 14 sty 2014 14:45:53
+reset HEAD --hard
+Date: 14 sty 2014 14:46:15
+checkout hotfix/2.1.1
+Date: 14 sty 2014 17:57:47
+rm release-pom.xml reporter-client-api/release-pom.xml reporter-client-http-invoker/release-pom.xml reporter-core/release-pom.xml reporter-jasper-fontExtension/release-pom.xml reporter-jasper/release-pom.xml reporter-web-ear/release-pom.xml reporter-web/release-pom.xml
+Date: 14 sty 2014 18:11:36
+commit -m removed release-pom.xml's
+Date: 14 sty 2014 18:11:53
+repack -a -d --depth=250 --window=250
+Date: 15 sty 2014 18:25:29
+repack -a -d --depth=250 --window=250
+Date: 15 sty 2014 18:27:03
+repack -a -d --depth=250 --window=250
+Date: 15 sty 2014 18:27:37
+repack -a -d --depth=250 --window=250
+Date: 16 sty 2014 00:35:18
+log --first-parent -n 10
+Date: 16 sty 2014 01:11:19
+log -s --first-parent -n 10
+Date: 16 sty 2014 01:11:27
+log --oneline --first-parent -n 10
+Date: 16 sty 2014 01:13:23
+log --oneline --first-parent -n 1`
+Date: 16 sty 2014 01:13:37
+log --oneline --first-parent -n 10
+Date: 16 sty 2014 01:13:49
+log --oneline --first-parent -n 11
+Date: 16 sty 2014 01:13:54
+status
+Date: 16 sty 2014 01:44:41
+checkout hotfix/2.1.2
+Date: 16 sty 2014 09:37:39
+clone git@git:e-contractor.git
+Date: 17 sty 2014 10:21:46
+clone git@git:econtractor.git
+Date: 17 sty 2014 10:44:27
+clone git@git:econtractor.git e-contractor
+Date: 17 sty 2014 11:24:31
+rm TEST_JST.txt
+Date: 17 sty 2014 12:15:29
+status
+Date: 17 sty 2014 12:15:44
+commit -m removed TEST_JST.txt
+Date: 17 sty 2014 12:16:30
+push
+Date: 17 sty 2014 12:16:36
+clone git@git:econtractor.git e-contractor
+Date: 17 sty 2014 12:35:37
+remote -v
+Date: 17 sty 2014 12:36:09
+remote
+Date: 17 sty 2014 12:36:13
+remote --help
+Date: 17 sty 2014 12:36:20
+remote set-head origin develop
+Date: 17 sty 2014 12:38:38
+push
+Date: 17 sty 2014 12:38:46
+status
+Date: 17 sty 2014 12:38:50
+clone git@git:econtractor.git e-contractor
+Date: 17 sty 2014 12:46:10
+update-server-info
+Date: 17 sty 2014 12:46:26
+status
+Date: 17 sty 2014 12:46:29
+checkout origin/develop
+Date: 17 sty 2014 12:46:38
+checkout develop
+Date: 17 sty 2014 12:46:58
+remote set-head origin develop
+Date: 17 sty 2014 12:47:09
+remote -v
+Date: 17 sty 2014 12:47:16
+add .editorconfig
+Date: 17 sty 2014 12:57:32
+status
+Date: 17 sty 2014 13:07:19
+checkout -- .gitignore
+Date: 17 sty 2014 13:07:33
+status
+Date: 17 sty 2014 13:07:36
+add .
+Date: 17 sty 2014 13:09:13
+status
+Date: 17 sty 2014 13:09:20
+commit -m .editorconfig added
+Date: 17 sty 2014 13:10:45
+status
+Date: 17 sty 2014 13:11:06
+push
+Date: 17 sty 2014 13:11:13
+status
+Date: 17 sty 2014 13:33:54
+config -l
+Date: 17 sty 2014 14:31:30
+remote show
+Date: 17 sty 2014 17:37:46
+remote update
+Date: 17 sty 2014 17:38:08
+status
+Date: 21 sty 2014 11:24:34
+log --oneline --first-parent -n 11
+Date: 21 sty 2014 11:24:44
+status
+Date: 21 sty 2014 11:59:08
+reset HEAD --hard
+Date: 21 sty 2014 11:59:18
+status
+Date: 21 sty 2014 11:59:22
+status
+Date: 21 sty 2014 12:14:46
+--version
+Date: 21 sty 2014 12:49:11
+status
+Date: 21 sty 2014 15:42:14
+log --oneline serverAppletLibs.jar
+Date: 21 sty 2014 15:42:31
+add -f serverAppletLibs.jar
+Date: 21 sty 2014 15:43:44
+commit -m missing serverAppletLibs.jar
+Date: 21 sty 2014 15:44:06
+log --oneline serverAppletLibs.jar
+Date: 21 sty 2014 15:45:51
+gc --auto
+Date: 21 sty 2014 18:18:12
+gc
+Date: 21 sty 2014 18:18:34
+repack -a -d --depth=250 --window=250 -f
+Date: 21 sty 2014 18:21:54
+prune
+Date: 21 sty 2014 18:23:04
+gc --prune=now
+Date: 21 sty 2014 18:23:30
+gc --aggressive --prune=now
+Date: 21 sty 2014 18:25:09
+gc --aggressive --prune=now
+Date: 21 sty 2014 18:26:20
+status
+Date: 23 sty 2014 13:41:04
+fetch
+Date: 23 sty 2014 13:41:13
+status
+Date: 23 sty 2014 18:58:25
+checkout #146299
+Date: 23 sty 2014 19:00:01
+status
+Date: 23 sty 2014 19:09:33
+status
+Date: 23 sty 2014 19:09:45
+status
+Date: 23 sty 2014 19:10:31
+rebase --abort
+Date: 23 sty 2014 19:10:58
+log master..HEAD
+Date: 23 sty 2014 23:04:32
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date: 23 sty 2014 23:07:05
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10 --oneline
+Date: 23 sty 2014 23:07:57
+remote
+Date: 23 sty 2014 23:08:35
+remote
+Date: 23 sty 2014 23:08:51
+remote
+Date: 23 sty 2014 23:08:52
+log master..HEAD
+Date: 23 sty 2014 23:14:41
+log master..HEAD
+Date: 23 sty 2014 23:14:53
+status
+Date: 23 sty 2014 23:15:01
+rebase --abort
+Date: 23 sty 2014 23:15:52
+checkout #146299
+Date: 23 sty 2014 23:16:04
+log master..HEAD
+Date: 23 sty 2014 23:16:11
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date: 23 sty 2014 23:16:46
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --oneline -10
+Date: 23 sty 2014 23:17:10
+remote
+Date: 23 sty 2014 23:17:41
+rebase --onto release_v6.10 master
+Date: 23 sty 2014 23:18:07
+status
+Date: 23 sty 2014 23:18:20
+log release_v6.10..HEAD
+Date: 23 sty 2014 23:18:39
+svn --help
+Date: 24 sty 2014 16:58:12
+svn init pharmacy/
+Date: 24 sty 2014 16:58:29
+svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pharmacy/tags --trunk https://svn:4443/Pharmacy/trunk/pharmacy
+Date: 24 sty 2014 17:50:58
+status
+Date: 24 sty 2014 17:51:28
+branch
+Date: 27 sty 2014 08:49:34
+svn --version
+Date: 27 sty 2014 09:03:39
+fetch
+Date: 27 sty 2014 09:04:26
+show
+Date: 27 sty 2014 09:04:40
+remote update
+Date: 27 sty 2014 09:04:52
+remote -v
+Date: 27 sty 2014 09:04:59
+svn init --branches=https://svn:4443/Pharmacy/branch --tags=https://svn:4443/Pharmacy/tags --trunk https://svn:4443/Pharmacy/trunk/pharmacy
+Date: 27 sty 2014 15:14:07
