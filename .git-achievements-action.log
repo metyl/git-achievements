@@ -2197,3 +2197,13 @@ log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
 Date: Tue Jan 28 17:45:20 CET 2014
 svn info
 Date: Tue Jan 28 17:46:20 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:46:28 CET 2014
+branch -a
+Date: Tue Jan 28 17:47:16 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:47:16 CET 2014
+branch
+Date: Tue Jan 28 17:48:02 CET 2014
+log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
+Date: Tue Jan 28 17:48:02 CET 2014
