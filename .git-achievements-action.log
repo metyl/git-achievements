@@ -3320,3 +3320,17 @@ log --first-parent -1 --grep=^git-svn-id: \(https://svn:4443/Pharmacy\)
 Date: Tue Jan 28 23:33:21 CET 2014
 log -n 25
 Date: Tue Jan 28 23:33:25 CET 2014
+status
+Date: 30 sty 2014 11:32:35
+update-index --assume-unchanged .mailmap
+Date: 30 sty 2014 11:45:25
+rm .mailmap
+Date: 30 sty 2014 11:45:35
+status
+Date: 30 sty 2014 11:45:40
+checkout --help
+Date: 30 sty 2014 11:47:21
+reset HEAD .mailmap
+Date: 30 sty 2014 11:48:58
+update-index --assume-unchanged .mailmap
+Date: 30 sty 2014 11:49:32
