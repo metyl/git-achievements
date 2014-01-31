@@ -286,3 +286,11 @@
        Stash the changes in a dirty working directory away with git stash.       
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                          Apprentice Pilgrim (Level 1)                          
+                   Performed a rebase using git rebase --onto.                   
+********************************************************************************
+
