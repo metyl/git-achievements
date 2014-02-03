@@ -3386,3 +3386,83 @@ status
 Date: 31 sty 2014 15:55:26
 rebase --onto stable release_v6.10
 Date: 31 sty 2014 15:56:02
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10 --oneline
+Date: 31 sty 2014 15:57:45
+fetch
+Date: 31 sty 2014 15:59:05
+remote
+Date: 31 sty 2014 15:59:32
+rebase --abort
+Date: 31 sty 2014 16:00:49
+checkout #146299
+Date: 31 sty 2014 16:01:03
+fetch --help
+Date: 31 sty 2014 16:04:48
+fetch origin stable:stable
+Date: 31 sty 2014 16:05:45
+remote
+Date: 31 sty 2014 16:08:16
+remote
+Date: 31 sty 2014 16:08:22
+add .
+Date: 31 sty 2014 16:16:18
+reset HEAD
+Date: 31 sty 2014 16:18:16
+add build.xml
+Date: 31 sty 2014 16:18:31
+rebase --continue
+Date: 31 sty 2014 16:18:42
+status
+Date: 31 sty 2014 16:18:57
+fetch origin beta:beta
+Date: 31 sty 2014 16:19:57
+fetch origin master:master
+Date: 31 sty 2014 16:20:11
+merge #146299 stable
+Date: 31 sty 2014 16:22:17
+merge --help
+Date: 31 sty 2014 16:23:22
+status
+Date: 31 sty 2014 16:43:55
+checkout stable
+Date: 31 sty 2014 16:45:16
+merge #146299 --no-ff
+Date: 31 sty 2014 16:45:53
+status
+Date: 31 sty 2014 16:45:57
+checkout beta
+Date: 31 sty 2014 16:46:07
+status
+Date: 31 sty 2014 16:59:31
+merge #146299 -s recursive -X ours
+Date: 31 sty 2014 17:22:52
+status
+Date: 31 sty 2014 18:17:45
+fetch origin stable:stable
+Date:  1 lut 2014 02:08:06
+fetch origin beta:beta
+Date:  1 lut 2014 02:08:30
+fetch origin
+Date:  1 lut 2014 02:08:45
+fetch origin master:master
+Date:  1 lut 2014 02:09:01
+fetch origin beta:beta
+Date:  3 lut 2014 09:13:17
+fetch origin master:master
+Date:  3 lut 2014 09:13:37
+fetch
+Date:  3 lut 2014 09:14:40
+fetch origin
+Date:  3 lut 2014 09:14:48
+fetch origin beta:beta
+Date:  3 lut 2014 09:15:02
+fetch origin master:master
+Date:  3 lut 2014 09:15:10
+checkout beta
+Date:  3 lut 2014 09:15:32
+merge stable
+Date:  3 lut 2014 09:15:43
+checkout master
+Date:  3 lut 2014 09:16:38
+merge stable
+Date:  3 lut 2014 09:16:52
