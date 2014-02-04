@@ -3468,3 +3468,193 @@ merge stable
 Date:  3 lut 2014 09:16:52
 push
 Date:  3 lut 2014 09:54:43
+checkout beta
+Date:  3 lut 2014 09:55:04
+checkout master
+Date:  3 lut 2014 09:56:12
+reset HEAD
+Date:  3 lut 2014 09:56:44
+status
+Date:  3 lut 2014 10:01:42
+checkout -- src/main/java/clininetlux/server/datamanagers/iBatis/Visits.xml
+Date:  3 lut 2014 10:01:58
+merge stable -s recursive -X theirs
+Date:  3 lut 2014 10:02:03
+reset HEAD
+Date:  3 lut 2014 10:33:36
+reset HEAD --soft
+Date:  3 lut 2014 10:34:15
+status
+Date:  3 lut 2014 10:34:49
+reset HEAD^1
+Date:  3 lut 2014 10:35:14
+status
+Date:  3 lut 2014 10:35:23
+checkout beta
+Date:  3 lut 2014 10:36:00
+reset HEAD~2
+Date:  3 lut 2014 10:36:15
+status
+Date:  3 lut 2014 10:36:20
+checkout HEAD^1 -- src/main/java/clininetlux/server/datamanagers/iBatis/Visits.xml
+Date:  3 lut 2014 10:41:13
+fetch origin beta:beta
+Date:  3 lut 2014 11:52:34
+fetch origin master:master
+Date:  3 lut 2014 11:52:40
+fetch origin stable:stable
+Date:  3 lut 2014 11:53:04
+fetch origin master:master
+Date:  3 lut 2014 12:32:20
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date:  3 lut 2014 12:32:39
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date:  3 lut 2014 12:33:24
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date:  3 lut 2014 12:34:05
+log --first-parent --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date:  3 lut 2014 12:37:25
+status
+Date:  3 lut 2014 13:11:32
+log --first-parent --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date:  3 lut 2014 13:11:40
+fetch origin master:master
+Date:  3 lut 2014 13:12:11
+checkout master
+Date:  3 lut 2014 13:12:21
+merge hotfix/#146299 --no-ff -s recursive -X ours
+Date:  3 lut 2014 13:15:47
+merge hotfix/#146299 --no-ff -s recursive -X ours --no-commit
+Date:  3 lut 2014 13:19:02
+log --first-parent --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date:  3 lut 2014 13:25:36
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date:  3 lut 2014 13:25:53
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date:  3 lut 2014 13:27:48
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10 sonar-project.properties
+Date:  3 lut 2014 13:29:14
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10 sonar-project.properties
+Date:  3 lut 2014 13:31:57
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date:  3 lut 2014 13:32:02
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -15
+Date:  3 lut 2014 13:32:21
+branch contains cc44ac5
+Date:  3 lut 2014 13:32:38
+branch 0a
+Date:  3 lut 2014 13:32:48
+branch -a
+Date:  3 lut 2014 13:32:52
+branch --contains cc44ac5
+Date:  3 lut 2014 13:33:44
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -15
+Date:  3 lut 2014 13:34:02
+checkout master
+Date:  3 lut 2014 13:34:09
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -15
+Date:  3 lut 2014 13:34:13
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -15 --first-parent
+Date:  3 lut 2014 13:35:01
+checkout beta
+Date:  3 lut 2014 13:37:32
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --decorate -15 --first-parent
+Date:  3 lut 2014 13:41:37
+log --graph --pretty=format:%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset --abbrev-commit --date=relative
+Date:  3 lut 2014 13:43:21
+log --graph --pretty=format:%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset --abbrev-commit --date=relative -20
+Date:  3 lut 2014 13:43:56
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --decorate -15 --first-parent
+Date:  3 lut 2014 13:44:16
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --decorate -15
+Date:  3 lut 2014 13:44:49
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --decorate -15
+Date:  3 lut 2014 13:45:08
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --decorate -15 --oneline
+Date:  3 lut 2014 13:45:38
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --decorate -15
+Date:  3 lut 2014 13:45:47
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --decorate -15 --graph
+Date:  3 lut 2014 13:45:57
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --decorate -15 --graph
+Date:  3 lut 2014 13:48:16
+log --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative --decorate -15
+Date:  3 lut 2014 13:48:24
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -15 --first-parent
+Date:  3 lut 2014 13:49:27
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -15 --first-parent
+Date:  3 lut 2014 13:51:17
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -15 --first-parent
+Date:  3 lut 2014 13:51:21
+log --graph --oneline --decorate --all -15
+Date:  3 lut 2014 14:01:09
+show
+Date:  3 lut 2014 14:05:11
+log --graph --oneline --decorate --all -15
+Date:  3 lut 2014 14:30:51
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -15 --first-parent
+Date:  3 lut 2014 14:31:13
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -15
+Date:  3 lut 2014 14:31:21
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10 --oneline
+Date:  3 lut 2014 14:32:31
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -10
+Date:  3 lut 2014 14:32:37
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -20
+Date:  3 lut 2014 14:32:49
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -20 --first-parent
+Date:  3 lut 2014 14:33:05
+status
+Date:  3 lut 2014 14:33:16
+pull
+Date:  3 lut 2014 14:33:26
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -20 --first-parent
+Date:  3 lut 2014 14:33:34
+branch -v
+Date:  3 lut 2014 17:04:12
+branch -vv
+Date:  3 lut 2014 17:04:24
+branch -a
+Date:  3 lut 2014 17:04:34
+branch -v
+Date:  3 lut 2014 17:04:38
+status
+Date:  3 lut 2014 23:30:18
+subtree split -P shiro-session-web -b shiro-session-web-only
+Date:  3 lut 2014 23:59:51
+branch -v
+Date:  4 lut 2014 00:03:08
+init shiro-session-web.git
+Date:  4 lut 2014 00:09:58
+fetch ../pharmacy.git shiro-session-web-only
+Date:  4 lut 2014 00:11:40
+checkout -b master FETCH_HEAD
+Date:  4 lut 2014 00:12:08
+remote
+Date:  4 lut 2014 00:12:39
+remote
+Date:  4 lut 2014 00:12:42
+remote
+Date:  4 lut 2014 00:12:50
+push ../shiro-session-web.git shiro-session-web-only:master
+Date:  4 lut 2014 00:12:55
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -15
+Date:  4 lut 2014 00:14:52
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative
+Date:  4 lut 2014 00:15:01
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -45
+Date:  4 lut 2014 00:15:27
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -45
+Date:  4 lut 2014 00:29:11
+rm -rf shiro-session-web
+Date:  4 lut 2014 00:37:21
+status
+Date:  4 lut 2014 00:40:09
+commit -m moved shiro-session-web to separate module, check git@git:shiro-session-web.git
+Date:  4 lut 2014 00:41:29
+push
+Date:  4 lut 2014 00:41:37
+filter-branch --index-filter git rm -r -f -q --cached --ignore-unmatch shiro-session-web --prune-empty HEAD
+Date:  4 lut 2014 01:40:08
+log -S shiro-sesssion-web
+Date:  4 lut 2014 01:41:04
