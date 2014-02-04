@@ -3658,3 +3658,33 @@ filter-branch --index-filter git rm -r -f -q --cached --ignore-unmatch shiro-ses
 Date:  4 lut 2014 01:40:08
 log -S shiro-sesssion-web
 Date:  4 lut 2014 01:41:04
+log -S pharmacy-api
+Date:  4 lut 2014 01:42:45
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -20 --first-parent
+Date:  4 lut 2014 01:52:46
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date:  4 lut 2014 01:58:44
+log
+Date:  4 lut 2014 01:58:50
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date:  4 lut 2014 01:58:51
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date:  4 lut 2014 01:59:04
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative
+Date:  4 lut 2014 02:16:11
+show 851f875
+Date:  4 lut 2014 02:16:26
+push -f
+Date:  4 lut 2014 02:29:50
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative
+Date:  4 lut 2014 03:21:01
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -45
+Date:  4 lut 2014 03:21:18
+subtree split -P pharmacy/shiro-session-web -b shiro-session-web-only
+Date:  4 lut 2014 03:30:06
+init shiro-session-web.git
+Date:  4 lut 2014 03:32:07
+fetch ../pharmacy.git shiro-session-web-only
+Date:  4 lut 2014 03:33:50
+checkout -b master FETCH_HEAD
+Date:  4 lut 2014 03:33:54
