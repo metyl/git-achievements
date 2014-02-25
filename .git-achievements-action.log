@@ -3814,3 +3814,15 @@ log --follow --all -- src/commons/spring/AppletCommonsHttpInvokerRequestExecutor
 Date: 24 lut 2014 16:34:50
 reflog
 Date: 25 lut 2014 16:21:08
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Feb 25 15:58:33 GMT 2014
+reflog
+Date: Tue Feb 25 15:59:02 GMT 2014
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Feb 25 15:59:02 GMT 2014
+fetch
+Date: 25 lut 2014 17:48:50
+fetch origin beta:beta
+Date: 25 lut 2014 17:49:25
+fetch origin stable:stable
+Date: 25 lut 2014 17:49:36
