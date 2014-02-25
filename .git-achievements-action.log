@@ -3688,3 +3688,129 @@ fetch ../pharmacy.git shiro-session-web-only
 Date:  4 lut 2014 03:33:50
 checkout -b master FETCH_HEAD
 Date:  4 lut 2014 03:33:54
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative -45
+Date:  4 lut 2014 03:34:08
+log --graph --pretty=format:%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset --date=relative
+Date:  4 lut 2014 03:34:16
+rm -rf shiro-session-web
+Date:  4 lut 2014 03:35:26
+commit -m moved shiro-session-web to separate module, clone git@git:shiro-session-web.git
+Date:  4 lut 2014 03:36:02
+push
+Date:  4 lut 2014 03:36:08
+fetch
+Date:  4 lut 2014 03:36:20
+branch -v
+Date:  4 lut 2014 03:36:25
+branch -vv
+Date:  4 lut 2014 03:36:29
+mv ReleaseNotes.xml checkstyle.xml pom.xml ..
+Date:  4 lut 2014 03:40:50
+mv ReleaseNotes.xml checkstyle.xml pharmacy-api pharmacy-changes pharmacy-config pharmacy-core pharmacy-tools pharmacy-upkg pharmacy-web pharmacy-web-ear pom.xml ..
+Date:  4 lut 2014 03:42:25
+push
+Date:  4 lut 2014 03:49:02
+ls-remote -t git@git:econtractor.git
+Date:  5 lut 2014 11:30:57
+ls-remote git@git:econtractor.git
+Date:  5 lut 2014 11:31:06
+ls-remote --heads git@git:econtractor.git
+Date:  5 lut 2014 11:31:38
+rev-parse --abbrev-ref HEAD
+Date:  5 lut 2014 16:09:04
+status -s
+Date:  6 lut 2014 09:33:01
+status
+Date:  6 lut 2014 09:33:05
+log --oneline --decorate
+Date:  6 lut 2014 09:34:32
+log --oneline --decorate -10
+Date:  6 lut 2014 09:34:43
+log --oneline -10
+Date:  6 lut 2014 09:34:49
+log --pretty=format:%C(yellow)%h%Cred%d\ %Creset%s%Cblue\ [%cn] --decorate --numstat -10
+Date:  6 lut 2014 09:36:00
+status
+Date: 12 lut 2014 09:18:05
+log --pretty=format:%C(yellow)%h%Cred%d\ %Creset%s%Cblue\ [%cn] --decorate --numstat -10
+Date: 12 lut 2014 09:19:27
+log --pretty=format:%C(yellow)%h%Cred%d\ %Creset%s%Cblue\ [%cn] --decorate --numstat -10
+Date: 12 lut 2014 09:19:38
+commit -a -m javac IS case sensitive ;)
+Date: 12 lut 2014 09:22:01
+status
+Date: 12 lut 2014 09:22:06
+push
+Date: 12 lut 2014 09:22:13
+status
+Date: 12 lut 2014 16:37:26
+mv ResourceCriteriaDto.java ResourceCriteriaDTO1.java
+Date: 12 lut 2014 16:37:50
+status
+Date: 12 lut 2014 16:37:57
+log --pretty=format:%C(yellow)%h%Cred%d\ %Creset%s%Cblue\ [%cn] --decorate --numstat -10
+Date: 12 lut 2014 16:38:34
+log --pretty=format:%C(yellow)%h%Cred%d\ %Creset%s%Cmargeta\ [%cn] --decorate --numstat -10
+Date: 12 lut 2014 16:39:11
+log --pretty=format:%C(yellow)%h%Cred%d\ %Creset%s%Cmargeta\ [%cn] --decorate -10
+Date: 12 lut 2014 16:39:36
+log --pretty=format:%C(yellow)%h%Cred%d\ %Creset%s%Cblue\ [%cn] --decorate -10
+Date: 12 lut 2014 16:39:54
+log --pretty=format:%C(yellow)%h%Cred%d\ %Creset%s%\ [%cn] --decorate -10
+Date: 12 lut 2014 16:40:21
+log --pretty=format:%C(yellow)%h%Cred%d\ %Creset%s\ [%cn] --decorate -10
+Date: 12 lut 2014 16:41:02
+log --pretty=format:%C(yellow)%h%Cred%d\ %Creset%s [%cn] --decorate -10
+Date: 12 lut 2014 16:41:11
+status
+Date: 12 lut 2014 16:41:26
+add .
+Date: 12 lut 2014 16:41:33
+status
+Date: 12 lut 2014 16:41:36
+rm ResourceCriteriaDTO.java
+Date: 12 lut 2014 16:42:23
+status
+Date: 12 lut 2014 16:42:30
+status
+Date: 12 lut 2014 16:45:03
+commit -a -m javac IS case sensitive
+Date: 12 lut 2014 16:46:10
+mv ResourceCriteriaDTO1.java ResourceCriteriaDTO.java
+Date: 12 lut 2014 16:46:33
+status
+Date: 12 lut 2014 16:46:36
+commit -a -m javac IS case sensitive !!!
+Date: 12 lut 2014 16:46:45
+push
+Date: 12 lut 2014 16:46:57
+status
+Date: 13 lut 2014 09:19:14
+status
+Date: 14 lut 2014 09:39:06
+remote -v
+Date: 24 lut 2014 12:12:03
+remote show origin
+Date: 24 lut 2014 12:12:39
+remote show origin
+Date: 24 lut 2014 12:13:08
+status
+Date: 24 lut 2014 12:15:07
+commit -a -m swtiched to develop branch
+Date: 24 lut 2014 12:15:39
+push
+Date: 24 lut 2014 12:15:53
+remote show origin
+Date: 24 lut 2014 12:16:00
+log -- AppletCommonsHttpInvokerRequestExecutor.java
+Date: 24 lut 2014 16:26:46
+log --oneline -SAppletCommonsHttpInvokerRequestExecutor.java
+Date: 24 lut 2014 16:28:55
+log --follow --oneline -- AppletCommonsHttpInvokerRequestExecutor.java
+Date: 24 lut 2014 16:31:52
+log --follow -- AppletCommonsHttpInvokerRequestExecutor.java
+Date: 24 lut 2014 16:32:20
+log --follow --all -- src/commons/spring/AppletCommonsHttpInvokerRequestExecutor.java
+Date: 24 lut 2014 16:34:50
+reflog
+Date: 25 lut 2014 16:21:08
